@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+    <!-- 24 EASY Questions -->
+    <question difficulty="EASY">
+        <topic>Computer Science</topic>
+        <questionString>What does CPU stand for?</questionString>
+        <option>Computer Processing Unit</option>
+        <option answer="true">Central Processing Unit</option>
+        <option>Central Program Utility</option>
+        <option>Computer Program Unit</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Computer Science</topic>
+        <questionString>Which of the following is NOT a programming language?</questionString>
+        <option>Python</option>
+        <option>Java</option>
+        <option answer="true">JPEG</option>
+        <option>Ruby</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Computer Science</topic>
+        <questionString>What is the binary representation of decimal number 5?</questionString>
+        <option>110</option>
+        <option answer="true">101</option>
+        <option>100</option>
+        <option>111</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Computer Science</topic>
+        <questionString>What file extension is commonly used for plain text files?</questionString>
+        <option>doc</option>
+        <option answer="true">txt</option>
+        <option>pdf</option>
+        <option>exe</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Computer Science</topic>
+        <questionString>In programming, what is the result of 5 + 3?</questionString>
+        <option>53</option>
+        <option answer="true">8</option>
+        <option>2</option>
+        <option>15</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Computer Science</topic>
+        <questionString>What does RAM stand for?</questionString>
+        <option>Read Access Memory</option>
+        <option answer="true">Random Access Memory</option>
+        <option>Random Array Memory</option>
+        <option>Read Array Management</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Computer Science</topic>
+        <questionString>Which symbol is used for multiplication in most programming languages?</questionString>
+        <option>x</option>
+        <option answer="true">*</option>
+        <option>×</option>
+        <option>•</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Computer Science</topic>
+        <questionString>What does HTML stand for?</questionString>
+        <option>High Text Markup Language</option>
+        <option answer="true">Hypertext Markup Language</option>
+        <option>Hypertext Making Language</option>
+        <option>High Text Making Language</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Computer Science</topic>
+        <questionString>Which of these is a valid variable name in most programming languages?</questionString>
+        <option>2name</option>
+        <option answer="true">user_name</option>
+        <option>user name</option>
+        <option>user-name</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Computer Science</topic>
+        <questionString>What is the primary function of an operating system?</questionString>
+        <option>Play games</option>
+        <option answer="true">Manage computer resources</option>
+        <option>Create documents</option>
+        <option>Browse the internet</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Computer Science</topic>
+        <questionString>Which of these is an output device?</questionString>
+        <option>Keyboard</option>
+        <option answer="true">Monitor</option>
+        <option>Mouse</option>
+        <option>Microphone</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Computer Science</topic>
+        <questionString>What type of file is typically used to store an image?</questionString>
+        <option>doc</option>
+        <option answer="true">jpg</option>
+        <option>mp3</option>
+        <option>txt</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Computer Science</topic>
+        <questionString>What does USB stand for?</questionString>
+        <option>Universal System Bus</option>
+        <option answer="true">Universal Serial Bus</option>
+        <option>United Serial Bus</option>
+        <option>Universal Service Bus</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Computer Science</topic>
+        <questionString>Which key combination is commonly used to copy selected text?</questionString>
+        <option>Ctrl+V</option>
+        <option answer="true">Ctrl+C</option>
+        <option>Ctrl+X</option>
+        <option>Ctrl+Z</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Computer Science</topic>
+        <questionString>What is the default file extension for a Python source file?</questionString>
+        <option>.exe</option>
+        <option answer="true">.py</option>
+        <option>.java</option>
+        <option>.cpp</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Computer Science</topic>
+        <questionString>What does GUI stand for?</questionString>
+        <option>General User Interface</option>
+        <option answer="true">Graphical User Interface</option>
+        <option>General Unity Interface</option>
+        <option>Graphical Unity Interface</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Computer Science</topic>
+        <questionString>Which of these represents a Boolean value?</questionString>
+        <option>2.5</option>
+        <option answer="true">true</option>
+        <option>"hello"</option>
+        <option>123</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Computer Science</topic>
+        <questionString>What is the result of 8 % 3 in most programming languages?</questionString>
+        <option>1.5</option>
+        <option answer="true">2</option>
+        <option>3</option>
+        <option>2.67</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Computer Science</topic>
+        <questionString>Which symbol typically represents the NOT operator?</questionString>
+        <option>^</option>
+        <option answer="true">!</option>
+        <option>&amp;</option>
+        <option>#</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Computer Science</topic>
+        <questionString>What is the correct file extension for a Java source file?</questionString>
+        <option>.class</option>
+        <option answer="true">.java</option>
+        <option>.jar</option>
+        <option>.js</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Computer Science</topic>
+        <questionString>What does RGB stand for in computer graphics?</questionString>
+        <option>Red Green Brown</option>
+        <option answer="true">Red Green Blue</option>
+        <option>Red Grey Blue</option>
+        <option>Red Gold Blue</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Computer Science</topic>
+        <questionString>Which unit of data storage is the largest?</questionString>
+        <option>Kilobyte (KB)</option>
+        <option answer="true">Terabyte (TB)</option>
+        <option>Megabyte (MB)</option>
+        <option>Gigabyte (GB)</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Computer Science</topic>
+        <questionString>What symbol is used for string concatenation in Python?</questionString>
+        <option>&amp;</option>
+        <option answer="true">+</option>
+        <option>.</option>
+        <option>-</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Computer Science</topic>
+        <questionString>Which of these is not a web browser?</questionString>
+        <option>Chrome</option>
+        <option answer="true">Excel</option>
+        <option>Firefox</option>
+        <option>Safari</option>
+    </question>
+
+    <!-- 24 MEDIUM Questions -->
+    <question difficulty="MEDIUM">
+        <topic>Computer Science</topic>
+        <questionString>What is the time complexity of binary search?</questionString>
+        <option>O(n)</option>
+        <option answer="true">O(log n)</option>
+        <option>O(n²)</option>
+        <option>O(1)</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Computer Science</topic>
+        <questionString>Which data structure operates on a LIFO principle?</questionString>
+        <option>Queue</option>
+        <option answer="true">Stack</option>
+        <option>Array</option>
+        <option>Tree</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Computer Science</topic>
+        <questionString>What is the purpose of a constructor in object-oriented programming?</questionString>
+        <option>To destroy objects</option>
+        <option answer="true">To initialize object attributes</option>
+        <option>To define class methods</option>
+        <option>To inherit from parent class</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Computer Science</topic>
+        <questionString>Which protocol is used for secure web browsing?</questionString>
+        <option>HTTP</option>
+        <option answer="true">HTTPS</option>
+        <option>FTP</option>
+        <option>SMTP</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Computer Science</topic>
+        <questionString>What is the result of 5 &amp; 3 in binary operations?</questionString>
+        <option>8</option>
+        <option answer="true">1</option>
+        <option>2</option>
+        <option>0</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Computer Science</topic>
+        <questionString>Which sorting algorithm has an average time complexity of O(n log n)?</questionString>
+        <option>Bubble Sort</option>
+        <option answer="true">Quick Sort</option>
+        <option>Selection Sort</option>
+        <option>Insertion Sort</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Computer Science</topic>
+        <questionString>What is the purpose of normalization in databases?</questionString>
+        <option>To increase data redundancy</option>
+        <option answer="true">To reduce data redundancy</option>
+        <option>To increase database size</option>
+        <option>To decrease query speed</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Computer Science</topic>
+        <questionString>What is the primary function of a primary key in a database?</questionString>
+        <option>To encrypt data</option>
+        <option answer="true">To uniquely identify records</option>
+        <option>To sort data</option>
+        <option>To compress data</option>
+    </question>
+
+    <question difficulty="MEDIUM">
+        <topic>Computer Science</topic>
+        <questionString>What is the space complexity of a depth-first search (DFS) on a graph?</questionString>
+        <option>O(n²)</option>
+        <option>O(log n)</option>
+        <option answer="true">O(V + E)</option>
+        <option>O(n)</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Computer Science</topic>
+        <questionString>Which type of inheritance allows a class to inherit from multiple classes in Python?</questionString>
+        <option>Single Inheritance</option>
+        <option>Hierarchical Inheritance</option>
+        <option answer="true">Multiple Inheritance</option>
+        <option>Multilevel Inheritance</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Computer Science</topic>
+        <questionString>What does the acronym SQL stand for?</questionString>
+        <option>Standard Query Logic</option>
+        <option answer="true">Structured Query Language</option>
+        <option>Simple Query Language</option>
+        <option>Server Query Language</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Computer Science</topic>
+        <questionString>Which of the following is a NoSQL database?</questionString>
+        <option>PostgreSQL</option>
+        <option>MySQL</option>
+        <option>SQL Server</option>
+        <option answer="true">MongoDB</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Computer Science</topic>
+        <questionString>In Big O notation, what does the "O" represent?</questionString>
+        <option>Order</option>
+        <option answer="true">Upper bound</option>
+        <option>Optimization</option>
+        <option>Operation</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Computer Science</topic>
+        <questionString>Which of the following is a dynamic programming problem?</questionString>
+        <option>Binary Search</option>
+        <option answer="true">Knapsack Problem</option>
+        <option>Bubble Sort</option>
+        <option>Depth-First Search</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Computer Science</topic>
+        <questionString>Which algorithm is used to find the shortest path in a weighted graph?</questionString>
+        <option>Prim's Algorithm</option>
+        <option>Kruskal's Algorithm</option>
+        <option answer="true">Dijkstra's Algorithm</option>
+        <option>Bellman-Ford Algorithm</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Computer Science</topic>
+        <questionString>What is the key feature of a linked list over an array?</questionString>
+        <option>Faster traversal</option>
+        <option>Fixed size</option>
+        <option answer="true">Dynamic size</option>
+        <option>Better sorting</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Computer Science</topic>
+        <questionString>Which operator is used for logical XOR in most programming languages?</questionString>
+        <option>||</option>
+        <option answer="true">^</option>
+        <option>!</option>
+        <option>&amp;&amp;</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Computer Science</topic>
+        <questionString>What is the result of applying De Morgan's laws to !(A &amp;&amp; B)?</questionString>
+        <option>!(A || B)</option>
+        <option>A &amp;&amp; !B</option>
+        <option answer="true">!A || !B</option>
+        <option>A || !B</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Computer Science</topic>
+        <questionString>What is the main difference between HTTP and HTTPS?</questionString>
+        <option>HTTPS is faster than HTTP</option>
+        <option>HTTPS uses port 80</option>
+        <option answer="true">HTTPS is encrypted using SSL/TLS</option>
+        <option>HTTP supports only text data</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Computer Science</topic>
+        <questionString>What is the output of the expression 2 &lt;&lt; 3 in Python?</questionString>
+        <option>6</option>
+        <option answer="true">16</option>
+        <option>8</option>
+        <option>24</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Computer Science</topic>
+        <questionString>Which one of these is an example of an NP-complete problem?</questionString>
+        <option>Binary Search</option>
+        <option>Sorting</option>
+        <option answer="true">Traveling Salesman Problem</option>
+        <option>Matrix Multiplication</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Computer Science</topic>
+        <questionString>Which of the following is true about hash tables?</questionString>
+        <option>They always have O(1) look-up time</option>
+        <option answer="true">They require a good hash function to minimize collisions</option>
+        <option>They are sorted by default</option>
+        <option>They use linear search for look-ups</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Computer Science</topic>
+        <questionString>Which type of network topology is most robust to a single point of failure?</questionString>
+        <option>Bus</option>
+        <option answer="true">Mesh</option>
+        <option>Star</option>
+        <option>Ring</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Computer Science</topic>
+        <questionString>In object-oriented programming, what does polymorphism allow?</questionString>
+        <option>Creating private methods</option>
+        <option>Defining multiple classes</option>
+        <option answer="true">Using a single interface for different data types</option>
+        <option>Inheriting multiple classes</option>
+    </question>
+
+
+    <!-- 24 HARD Questions -->
+    <question difficulty="HARD">
+        <topic>Mathematics</topic>
+        <questionString>Evaluate: ∑(k=1 to 10) k²</questionString>
+        <option>335</option>
+        <option>385</option>
+        <option answer="true">385</option>
+        <option>425</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Mathematics</topic>
+        <questionString>If x² - y² = 45 and x + y = 9, find x and y.</questionString>
+        <option>x = 5, y = 4</option>
+        <option answer="true">x = 6, y = 3</option>
+        <option>x = 7, y = 2</option>
+        <option>x = 8, y = 1</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Mathematics</topic>
+        <questionString>Solve: (x + 1)(x - 2)(x - 3) = 0</questionString>
+        <option>x = 1</option>
+        <option>x = 2</option>
+        <option answer="true">x = -1, 2, 3</option>
+        <option>x = 3</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Mathematics</topic>
+        <questionString>Find the inverse of the function f(x) = 2x + 5.</questionString>
+        <option answer="true">f⁻¹(x) = (x - 5)/2</option>
+        <option>f⁻¹(x) = 2x - 5</option>
+        <option>f⁻¹(x) = x/2 + 5</option>
+        <option>f⁻¹(x) = x/2 - 5</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Mathematics</topic>
+        <questionString>Find the value of cos²(30°) + sin²(30°).</questionString>
+        <option>1</option>
+        <option answer="true">1</option>
+        <option>0</option>
+        <option>1/2</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Mathematics</topic>
+        <questionString>Find the slope of the line passing through the points (3, 7) and (5, 11).</questionString>
+        <option>1</option>
+        <option answer="true">2</option>
+        <option>4</option>
+        <option>3</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Mathematics</topic>
+        <questionString>Evaluate: ∫(5x² + 3x - 2)dx from x = 1 to x = 3</questionString>
+        <option>52</option>
+        <option answer="true">82</option>
+        <option>72</option>
+        <option>62</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Mathematics</topic>
+        <questionString>If a geometric sequence has a first term of 2 and a common ratio of 3, find the 5th term.</questionString>
+        <option>48</option>
+        <option answer="true">162</option>
+        <option>54</option>
+        <option>81</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Mathematics</topic>
+        <questionString>Solve for x: ln(x + 2) = 3</questionString>
+        <option>x = 18</option>
+        <option>x = 15</option>
+        <option>x = 19</option>
+        <option answer="true">x = e³ - 2</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Mathematics</topic>
+        <questionString>Find the roots of the equation: 2x² - 8x + 6 = 0</questionString>
+        <option>x = 1, 2</option>
+        <option answer="true">x = 1, 3</option>
+        <option>x = 2, 3</option>
+        <option>x = 1, 4</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Mathematics</topic>
+        <questionString>A sphere has a radius of 7. Find its surface area (use π = 3.14).</questionString>
+        <option>615.44</option>
+        <option answer="true">615.75</option>
+        <option>614</option>
+        <option>616</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Mathematics</topic>
+        <questionString>If tan(θ) = 3/4, find sin(θ).</questionString>
+        <option>4/5</option>
+        <option answer="true">3/5</option>
+        <option>3/4</option>
+        <option>4/3</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Computer Science</topic>
+        <questionString>Which of the following problems is considered NP-complete?</questionString>
+        <option>Binary Search</option>
+        <option>Sorting</option>
+        <option answer="true">Travelling Salesman Problem</option>
+        <option>Matrix Multiplication</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Computer Science</topic>
+        <questionString>What is the Big-O time complexity of the Floyd-Warshall algorithm for finding shortest paths in a graph?</questionString>
+        <option>O(n log n)</option>
+        <option>O(n²)</option>
+        <option answer="true">O(n³)</option>
+        <option>O(n⁴)</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Computer Science</topic>
+        <questionString>What is the main purpose of the Paxos algorithm in distributed systems?</questionString>
+        <option>To encrypt communication</option>
+        <option answer="true">To achieve consensus</option>
+        <option>To balance load</option>
+        <option>To detect deadlocks</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Computer Science</topic>
+        <questionString>Which of the following architectures does not follow the Von Neumann model?</questionString>
+        <option>Desktop Computers</option>
+        <option>Supercomputers</option>
+        <option>Embedded Systems</option>
+        <option answer="true">Quantum Computers</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Computer Science</topic>
+        <questionString>Which of the following problems is undecidable?</questionString>
+        <option>Shortest Path</option>
+        <option answer="true">Halting Problem</option>
+        <option>Minimum Spanning Tree</option>
+        <option>Convex Hull</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Computer Science</topic>
+        <questionString>What is the amortized time complexity of inserting an element into a dynamic array?</questionString>
+        <option>O(n)</option>
+        <option>O(log n)</option>
+        <option>O(n²)</option>
+        <option answer="true">O(1)</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Computer Science</topic>
+        <questionString>What is the main purpose of the CAP theorem in distributed systems?</questionString>
+        <option>To define time complexity of algorithms</option>
+        <option>To optimize database queries</option>
+        <option>To establish cryptographic protocols</option>
+        <option answer="true">To explain trade-offs between consistency, availability, and partition tolerance</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Computer Science</topic>
+        <questionString>Which property is not guaranteed by the ACID model in databases?</questionString>
+        <option>Atomicity</option>
+        <option>Consistency</option>
+        <option>Durability</option>
+        <option answer="true">Scalability</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Computer Science</topic>
+        <questionString>Which of the following is not a feature of functional programming?</questionString>
+        <option>Immutability</option>
+        <option>First-class functions</option>
+        <option answer="true">Global state management</option>
+        <option>Recursion</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Computer Science</topic>
+        <questionString>In the context of cryptography, what is the primary purpose of elliptic curve cryptography?</questionString>
+        <option>To perform symmetric encryption</option>
+        <option>To compress data</option>
+        <option answer="true">To secure communication with smaller keys</option>
+        <option>To generate hash values</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Computer Science</topic>
+        <questionString>What is the time complexity of the Strassen algorithm for matrix multiplication?</questionString>
+        <option>O(n²)</option>
+        <option answer="true">O(n².81)</option>
+        <option>O(n³)</option>
+        <option>O(n log n)</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Computer Science</topic>
+        <questionString>What is the main challenge addressed by the Byzantine Generals Problem in distributed computing?</questionString>
+        <option>Network latency</option>
+        <option answer="true">Fault tolerance in the presence of malicious nodes</option>
+        <option>Data redundancy</option>
+        <option>Load balancing</option>
+    </question>
+    <!-- 24 VERY HARD Questions -->
+    <question difficulty="VERY HARD">
+        <topic>Computer Science</topic>
+        <questionString>Which of the following is a primary reason why the PCP theorem ("Probabilistically Checkable Proofs") is considered a cornerstone of complexity theory?</questionString>
+        <option>It resolves P vs NP</option>
+        <option>It enables cryptographic applications</option>
+        <option>It introduces new graph traversal techniques</option>
+        <option answer="true">It establishes the hardness of approximating certain optimization problems</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>Computer Science</topic>
+        <questionString>What is the relationship between BPP (Bounded-Error Probabilistic Polynomial time) and P (Deterministic Polynomial time)?</questionString>
+        <option>BPP is strictly smaller than P</option>
+        <option>BPP equals P</option>
+        <option answer="true">It is unknown if BPP equals P</option>
+        <option>BPP is strictly larger than P</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>Computer Science</topic>
+        <questionString>Which of the following is NOT a necessary condition for the correctness of a concurrent program under the sequential consistency model?</questionString>
+        <option>Locks prevent data races</option>
+        <option>Program order of threads is respected</option>
+        <option>Memory writes are atomic</option>
+        <option answer="true">All threads are executed in parallel</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>Computer Science</topic>
+        <questionString>What is the primary distinction between the Chomsky hierarchy's Type-0 and Type-1 grammars?</questionString>
+        <option>Type-0 grammars are context-free</option>
+        <option>Type-1 grammars are unrestricted</option>
+        <option answer="true">Type-0 grammars are unrestricted; Type-1 grammars are context-sensitive</option>
+        <option>Type-1 grammars are regular</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>Computer Science</topic>
+        <questionString>Which of the following statements is true about quantum algorithms for solving NP-complete problems?</questionString>
+        <option>They are exponentially faster than classical algorithms for all NP-complete problems</option>
+        <option>They can only solve NP-complete problems using Grover's algorithm</option>
+        <option answer="true">No known quantum algorithm solves NP-complete problems in polynomial time</option>
+        <option>They rely solely on superposition for speedup</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>Computer Science</topic>
+        <questionString>In the context of distributed systems, why is achieving linearizability in highly available systems particularly challenging under the CAP theorem?</questionString>
+        <option>Linearizability contradicts partition tolerance</option>
+        <option answer="true">Linearizability requires strict consistency, which conflicts with availability during network partitions</option>
+        <option>Linearizability is only applicable to synchronous systems</option>
+        <option>Linearizability eliminates the need for consensus algorithms</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>Computer Science</topic>
+        <questionString>What is the computational complexity of determining whether a given Turing machine halts on all possible inputs?</questionString>
+        <option>NP</option>
+        <option>PSPACE</option>
+        <option answer="true">Undecidable</option>
+        <option>Co-NP</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>Computer Science</topic>
+        <questionString>Why is the Karger-Stein algorithm particularly suited for finding minimum cuts in a graph?</questionString>
+        <option>It eliminates the need for randomness</option>
+        <option answer="true">It amplifies the probability of finding the minimum cut by repeated randomized trials</option>
+        <option>It runs in linear time</option>
+        <option>It requires no contraction steps</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>Computer Science</topic>
+        <questionString>Which of the following is the most significant limitation of deterministic context-free parsing algorithms like LL(k)?</questionString>
+        <option>Inability to handle left recursion</option>
+        <option answer="true">Inability to parse all context-free languages</option>
+        <option>Slow runtime complexity</option>
+        <option>Excessive memory usage</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>Computer Science</topic>
+        <questionString>What makes the Zero-Knowledge Proof system critical in modern cryptographic applications?</questionString>
+        <option>Its ability to guarantee zero latency</option>
+        <option>Its reliance on symmetric cryptography</option>
+        <option answer="true">Its ability to verify a claim without revealing the underlying information</option>
+        <option>Its focus on compressing large datasets</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>Computer Science</topic>
+        <questionString>What is the significance of the Yao's Garbled Circuits technique in secure computation?</questionString>
+        <option>It guarantees sublinear time for cryptographic operations</option>
+        <option>It eliminates the need for cryptographic keys</option>
+        <option answer="true">It enables secure multi-party computation by encrypting circuits</option>
+        <option>It accelerates homomorphic encryption</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>Computer Science</topic>
+        <questionString>Why is the AKS primality test considered a breakthrough in computational number theory?</questionString>
+        <option>It relies on randomness</option>
+        <option answer="true">It provides a deterministic, polynomial-time test for primality</option>
+        <option>It improves RSA decryption</option>
+        <option>It replaces modular arithmetic with linear arithmetic</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>Computer Science</topic>
+        <questionString>What is the primary reason why solving 3-SAT is harder than 2-SAT?</questionString>
+        <option>3-SAT requires exponential memory usage</option>
+        <option answer="true">3-SAT is NP-complete, while 2-SAT is in P</option>
+        <option>3-SAT cannot be represented as a graph problem</option>
+        <option>3-SAT is unsolvable in principle</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>Computer Science</topic>
+        <questionString>What is the primary drawback of using Byzantine Fault Tolerance (BFT) in consensus protocols?</questionString>
+        <option>It does not support leader election</option>
+        <option answer="true">It incurs high communication overhead, especially in large networks</option>
+        <option>It fails in the presence of any faulty node</option>
+        <option>It requires synchronous communication</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>Computer Science</topic>
+        <questionString>In the context of machine learning, why is PAC (Probably Approximately Correct) learning theory significant?</questionString>
+        <option>It guarantees zero error rates</option>
+        <option answer="true">It provides theoretical bounds on the number of samples needed to generalize</option>
+        <option>It eliminates the need for regularization</option>
+        <option>It applies only to unsupervised learning</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>Computer Science</topic>
+        <questionString>What is the primary challenge in implementing homomorphic encryption for real-world applications?</questionString>
+        <option>Key management</option>
+        <option>Algorithmic complexity</option>
+        <option>Security vulnerability</option>
+        <option answer="true">Excessive computational overhead</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>Computer Science</topic>
+        <questionString>Why is the Lovász Local Lemma considered a powerful tool in probabilistic combinatorics?</questionString>
+        <option>It provides exact solutions to NP-complete problems</option>
+        <option>It eliminates randomness in algorithms</option>
+        <option answer="true">It shows the existence of rare combinatorial structures under specific constraints</option>
+        <option>It ensures linear runtime for random sampling</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>Computer Science</topic>
+        <questionString>Which of the following problems can be reduced to solving the Discrete Logarithm Problem?</questionString>
+        <option>Integer factorization</option>
+        <option>3-SAT</option>
+        <option answer="true">Diffie-Hellman key exchange</option>
+        <option>Graph isomorphism</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>Computer Science</topic>
+        <questionString>Why is the spectral gap in the adjacency matrix of a graph important for understanding its connectivity?</questionString>
+        <option>It determines the graph's symmetry</option>
+        <option answer="true">It quantifies the graph's expansion and mixing properties</option>
+        <option>It identifies disconnected components</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>Computer Science</topic>
+        <questionString>Which of the following is the main reason why the PCP theorem implies that approximating certain NP-hard problems is difficult?</questionString>
+        <option>It guarantees that NP-complete problems can be solved in polynomial time</option>
+        <option>It shows that certain optimization problems have no approximation algorithm</option>
+        <option answer="true">It implies that certain NP-hard problems cannot be approximated within a constant factor unless P = NP</option>
+        <option>It suggests that all NP-hard problems are reducible to each other</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>Computer Science</topic>
+        <questionString>In the context of quantum computing, what is the significance of Shor's algorithm for integer factorization?</questionString>
+        <option>It improves classical algorithms by exponentially reducing the time complexity</option>
+        <option>It relies on classical cryptographic techniques</option>
+        <option answer="true">It provides a quantum polynomial-time algorithm to solve integer factorization, which has implications for breaking RSA encryption</option>
+        <option>It eliminates the need for a quantum computer</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>Computer Science</topic>
+        <questionString>What makes the Lempel-Ziv-Welch (LZW) compression algorithm different from other lossless compression algorithms?</questionString>
+        <option>It uses Huffman coding to assign shorter codes to more frequent symbols</option>
+        <option>It is based on arithmetic encoding</option>
+        <option>It creates a dictionary of substrings dynamically during the compression process</option>
+        <option answer="true">It uses a dictionary-based approach to replace repeated patterns with shorter codes</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>Computer Science</topic>
+        <questionString>Which of the following is the key challenge in implementing an efficient MapReduce algorithm for high-dimensional data analysis?</questionString>
+        <option>Managing distributed storage systems</option>
+        <option>Dealing with network latency in parallel computations</option>
+        <option answer="true">Handling the curse of dimensionality, which can lead to inefficiencies in partitioning and processing high-dimensional data</option>
+        <option>Ensuring fault tolerance in the face of node failures</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>Computer Science</topic>
+        <questionString>What is the most significant reason why the traveling salesman problem (TSP) remains NP-hard even with restricted graph topologies such as planar graphs?</questionString>
+        <option>There are no approximation algorithms for TSP</option>
+        <option>Planar graphs are a subset of Euclidean graphs</option>
+        <option answer="true">The problem remains NP-hard due to the combinatorial nature of the problem, regardless of the graph’s topology</option>
+        <option>The problem can always be solved in polynomial time for planar graphs</option>
+    </question>
+
+</questions>
+

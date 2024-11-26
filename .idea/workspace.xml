@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4f60fa30-053d-42e2-84be-86a3af681cac" name="更改" comment="Revert &quot;commit&quot;&#10;&#10;This reverts commit b7c86531">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment1_quizSystem/compile.bat" beforeDir="false" afterPath="$PROJECT_DIR$/assignment1_quizSystem/compile.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment1_quizSystem/resources/questionsBank/emptyFolder/lei/0.txt" beforeDir="false" afterPath="$PROJECT_DIR$/assignment1_quizSystem/resources/questionsBank/emptyFolder/lei/0.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment1_quizSystem/resources/questionsBank/emptyFolder/lei/1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/assignment1_quizSystem/resources/questionsBank/emptyFolder/lei/1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment1_quizSystem/resources/questionsBank/emptyFolder/lei/2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/assignment1_quizSystem/resources/questionsBank/emptyFolder/lei/2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment1_quizSystem/resources/questionsBank/emptyFolder/record.csv" beforeDir="false" afterPath="$PROJECT_DIR$/assignment1_quizSystem/resources/questionsBank/emptyFolder/record.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment1_quizSystem/resources/questionsBank/emptyFolder/ye/0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment1_quizSystem/resources/questionsBank/emptyFolder/ye/1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/assignment1_quizSystem/resources/questionsBank/emptyFolder/ye/1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment1_quizSystem/resources/questionsBank/emptyFolder/ye/2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/assignment1_quizSystem/resources/questionsBank/emptyFolder/ye/2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment1_quizSystem/resources/users.csv" beforeDir="false" afterPath="$PROJECT_DIR$/assignment1_quizSystem/resources/users.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment1_quizSystem/src/xjtlu/cpt111/assignment/quiz/LookUpHistory.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment1_quizSystem/src/xjtlu/cpt111/assignment/quiz/LookUpHistory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment1_quizSystem/src/xjtlu/cpt111/assignment/quiz/MainMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment1_quizSystem/src/xjtlu/cpt111/assignment/quiz/MainMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment1_quizSystem/src/xjtlu/cpt111/assignment/quiz/Questiondatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment1_quizSystem/src/xjtlu/cpt111/assignment/quiz/Questiondatabase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment1_quizSystem/src/xjtlu/cpt111/assignment/quiz/Ranking.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment1_quizSystem/src/xjtlu/cpt111/assignment/quiz/Ranking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment1_quizSystem/src/xjtlu/cpt111/assignment/quiz/Register.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment1_quizSystem/src/xjtlu/cpt111/assignment/quiz/Register.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment1_quizSystem/src/xjtlu/cpt111/assignment/quiz/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment1_quizSystem/src/xjtlu/cpt111/assignment/quiz/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assignment1_quizSystem/src/xjtlu/cpt111/assignment/quiz/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/assignment1_quizSystem/src/xjtlu/cpt111/assignment/quiz/User.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/assignment1_quizSystem/resources/questionsBank/questions_cs.xml" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/assignment1_quizSystem/src/xjtlu/cpt111/assignment/quiz/Ranking.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2ojkzc0T9Q9b4xfJvCnrgW2Xbcx" />
+  <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/assignment1_quizSystem/repositories/maven/xjtlu/cpt111/xjtlu.cpt111.assignment.quiz.lib/0.0.1/xjtlu.cpt111.assignment.quiz.lib-0.0.1.jar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "库",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.LookUpHistory.executor": "Run",
+    "应用程序.MainMenu.executor": "Run"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\cpt111_4.2groupCW\assignment1_quizSystem\src\xjtlu\cpt111\assignment\quiz" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="4f60fa30-053d-42e2-84be-86a3af681cac" name="更改" comment="" />
+      <created>1731390636106</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731390636106</updated>
+      <workItem from="1731390637417" duration="6501000" />
+      <workItem from="1731502352188" duration="40000" />
+      <workItem from="1731836287704" duration="9805000" />
+      <workItem from="1732266357101" duration="4021000" />
+      <workItem from="1732278084741" duration="6812000" />
+      <workItem from="1732286997155" duration="1965000" />
+      <workItem from="1732431282719" duration="6071000" />
+      <workItem from="1732459256168" duration="1305000" />
+      <workItem from="1732463717446" duration="97000" />
+      <workItem from="1732610621201" duration="10536000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit">
+      <option name="closed" value="true" />
+      <created>1731390760841</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731390760841</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit">
+      <option name="closed" value="true" />
+      <created>1731402793422</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731402793422</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit">
+      <option name="closed" value="true" />
+      <created>1731853753714</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1731853753714</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit">
+      <option name="closed" value="true" />
+      <created>1731853829702</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731853829702</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit">
+      <option name="closed" value="true" />
+      <created>1732270065033</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1732270065033</updated>
+    </task>
+    <task id="LOCAL-00006" summary="commit">
+      <option name="closed" value="true" />
+      <created>1732270086977</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1732270086977</updated>
+    </task>
+    <task id="LOCAL-00007" summary="commit">
+      <option name="closed" value="true" />
+      <created>1732288880608</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1732288880608</updated>
+    </task>
+    <task id="LOCAL-00008" summary="commit">
+      <option name="closed" value="true" />
+      <created>1732288902669</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1732288902669</updated>
+    </task>
+    <task id="LOCAL-00009" summary="commit">
+      <option name="closed" value="true" />
+      <created>1732288921265</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1732288921265</updated>
+    </task>
+    <task id="LOCAL-00010" summary="commit">
+      <option name="closed" value="true" />
+      <created>1732436469611</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1732436469611</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="final" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <MESSAGE value="Revert &quot;commit&quot;&#10;&#10;This reverts commit b7c86531" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;commit&quot;&#10;&#10;This reverts commit b7c86531" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/assignment1_quizSystem/src/xjtlu/cpt111/assignment/quiz/User.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

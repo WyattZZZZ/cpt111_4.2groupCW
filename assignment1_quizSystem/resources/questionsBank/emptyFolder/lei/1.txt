@@ -1,0 +1,3 @@
+EASY, What is the primary function of an operating system?, cs, Play games, Manage computer resources, Create documents, Browse the internet, [correctAnswer] Manage computer resources, Play games
+HARD, Which of the following architectures does not follow the Von Neumann model?, cs, Desktop Computers, Supercomputers, Embedded Systems, Quantum Computers, [correctAnswer] Quantum Computers, Quantum Computers
+HARD, Which property is not guaranteed by the ACID model in databases?, cs, Atomicity, Consistency, Durability, Scalability, [correctAnswer] Scalability, Atomicity

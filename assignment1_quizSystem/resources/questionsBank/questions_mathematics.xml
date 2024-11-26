@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+    <!-- 24 EASY Questions -->
+    <!-- 24 EASY Questions -->
+    <question difficulty="EASY">
+        <topic>Mathematics</topic>
+        <questionString>What is 15 + 27?</questionString>
+        <option>40</option>
+        <option answer="true">42</option>
+        <option>44</option>
+        <option>41</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Mathematics</topic>
+        <questionString>Calculate 8 × 7</questionString>
+        <option>54</option>
+        <option answer="true">56</option>
+        <option>58</option>
+        <option>52</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Mathematics</topic>
+        <questionString>What is 100 - 35?</questionString>
+        <option>67</option>
+        <option answer="true">65</option>
+        <option>63</option>
+        <option>66</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Mathematics</topic>
+        <questionString>Calculate 24 ÷ 3</questionString>
+        <option>7</option>
+        <option answer="true">8</option>
+        <option>9</option>
+        <option>6</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Mathematics</topic>
+        <questionString>What is 12 + 18?</questionString>
+        <option>29</option>
+        <option answer="true">30</option>
+        <option>31</option>
+        <option>32</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Mathematics</topic>
+        <questionString>Calculate 6 × 9</questionString>
+        <option>52</option>
+        <option answer="true">54</option>
+        <option>56</option>
+        <option>58</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Mathematics</topic>
+        <questionString>What is 50 - 27?</questionString>
+        <option>22</option>
+        <option answer="true">23</option>
+        <option>24</option>
+        <option>25</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Mathematics</topic>
+        <questionString>Calculate 36 ÷ 4</questionString>
+        <option>8</option>
+        <option answer="true">9</option>
+        <option>10</option>
+        <option>11</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Mathematics</topic>
+        <questionString>What is 45 + 17?</questionString>
+        <option>61</option>
+        <option answer="true">62</option>
+        <option>63</option>
+        <option>64</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Mathematics</topic>
+        <questionString>Calculate 5 × 13</questionString>
+        <option>64</option>
+        <option answer="true">65</option>
+        <option>66</option>
+        <option>67</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Mathematics</topic>
+        <questionString>What is 80 - 45?</questionString>
+        <option>34</option>
+        <option answer="true">35</option>
+        <option>36</option>
+        <option>37</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Mathematics</topic>
+        <questionString>Calculate 32 ÷ 8</questionString>
+        <option>3</option>
+        <option answer="true">4</option>
+        <option>5</option>
+        <option>6</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Mathematics</topic>
+        <questionString>What is 23 + 39?</questionString>
+        <option>61</option>
+        <option answer="true">62</option>
+        <option>63</option>
+        <option>64</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Mathematics</topic>
+        <questionString>Calculate 7 × 8</questionString>
+        <option>54</option>
+        <option answer="true">56</option>
+        <option>58</option>
+        <option>60</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Mathematics</topic>
+        <questionString>What is 90 - 37?</questionString>
+        <option>52</option>
+        <option answer="true">53</option>
+        <option>54</option>
+        <option>55</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Mathematics</topic>
+        <questionString>Calculate 48 ÷ 6</questionString>
+        <option>7</option>
+        <option answer="true">8</option>
+        <option>9</option>
+        <option>10</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Mathematics</topic>
+        <questionString>What is 34 + 28?</questionString>
+        <option>61</option>
+        <option answer="true">62</option>
+        <option>63</option>
+        <option>64</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Mathematics</topic>
+        <questionString>Calculate 9 × 6</questionString>
+        <option>52</option>
+        <option answer="true">54</option>
+        <option>56</option>
+        <option>58</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Mathematics</topic>
+        <questionString>What is 70 - 43?</questionString>
+        <option>26</option>
+        <option answer="true">27</option>
+        <option>28</option>
+        <option>29</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Mathematics</topic>
+        <questionString>Calculate 40 ÷ 5</questionString>
+        <option>7</option>
+        <option answer="true">8</option>
+        <option>9</option>
+        <option>10</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Mathematics</topic>
+        <questionString>What is 56 + 19?</questionString>
+        <option>74</option>
+        <option answer="true">75</option>
+        <option>76</option>
+        <option>77</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Mathematics</topic>
+        <questionString>Calculate 4 × 16</questionString>
+        <option>62</option>
+        <option answer="true">64</option>
+        <option>66</option>
+        <option>68</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Mathematics</topic>
+        <questionString>What is 85 - 28?</questionString>
+        <option>56</option>
+        <option answer="true">57</option>
+        <option>58</option>
+        <option>59</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Mathematics</topic>
+        <questionString>Calculate 63 ÷ 9</questionString>
+        <option>6</option>
+        <option answer="true">7</option>
+        <option>8</option>
+        <option>9</option>
+    </question>
+
+    <!-- 24 MEDIUM Questions -->
+    <question difficulty="MEDIUM">
+        <topic>Mathematics</topic>
+        <questionString>Solve for x: 3x + 7 = 22</questionString>
+        <option>4</option>
+        <option answer="true">5</option>
+        <option>6</option>
+        <option>7</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Mathematics</topic>
+        <questionString>What is 15% of 200?</questionString>
+        <option>25</option>
+        <option answer="true">30</option>
+        <option>35</option>
+        <option>40</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Mathematics</topic>
+        <questionString>Find the area of a triangle with base 8 and height 12</questionString>
+        <option>44</option>
+        <option answer="true">48</option>
+        <option>52</option>
+        <option>46</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Mathematics</topic>
+        <questionString>What is the square root of 144?</questionString>
+        <option>11</option>
+        <option answer="true">12</option>
+        <option>13</option>
+        <option>14</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Mathematics</topic>
+        <questionString>Solve for x: 2x - 5 = 11</questionString>
+        <option>7</option>
+        <option answer="true">8</option>
+        <option>9</option>
+        <option>10</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Mathematics</topic>
+        <questionString>Calculate 25% of 360</questionString>
+        <option>80</option>
+        <option answer="true">90</option>
+        <option>100</option>
+        <option>110</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Mathematics</topic>
+        <questionString>Find the perimeter of a rectangle with length 15 and width 8</questionString>
+        <option>44</option>
+        <option answer="true">46</option>
+        <option>48</option>
+        <option>50</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Mathematics</topic>
+        <questionString>What is the cube root of 27?</questionString>
+        <option>2</option>
+        <option answer="true">3</option>
+        <option>4</option>
+        <option>5</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Mathematics</topic>
+        <questionString>Solve for x: 4x + 3 = 19</questionString>
+        <option>3</option>
+        <option answer="true">4</option>
+        <option>5</option>
+        <option>6</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Mathematics</topic>
+        <questionString>What is 40% of 150?</questionString>
+        <option>55</option>
+        <option answer="true">60</option>
+        <option>65</option>
+        <option>70</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Mathematics</topic>
+        <questionString>Find the area of a circle with radius 5 (use π = 3.14)</questionString>
+        <option>75.36</option>
+        <option answer="true">78.50</option>
+        <option>81.64</option>
+        <option>84.78</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Mathematics</topic>
+        <questionString>What is the square root of 225?</questionString>
+        <option>14</option>
+        <option answer="true">15</option>
+        <option>16</option>
+        <option>17</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Mathematics</topic>
+        <questionString>Solve for x: 5x - 8 = 27</questionString>
+        <option>6</option>
+        <option answer="true">7</option>
+        <option>8</option>
+        <option>9</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Mathematics</topic>
+        <questionString>Calculate 30% of 250</questionString>
+        <option>70</option>
+        <option answer="true">75</option>
+        <option>80</option>
+        <option>85</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Mathematics</topic>
+        <questionString>Find the volume of a cube with side length 6</questionString>
+        <option>206</option>
+        <option answer="true">216</option>
+        <option>226</option>
+        <option>236</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Mathematics</topic>
+        <questionString>What is the cube root of 64?</questionString>
+        <option>3</option>
+        <option answer="true">4</option>
+        <option>5</option>
+        <option>6</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Mathematics</topic>
+        <questionString>Solve for x: 3x - 7 = 14</questionString>
+        <option>6</option>
+        <option answer="true">7</option>
+        <option>8</option>
+        <option>9</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Mathematics</topic>
+        <questionString>What is 45% of 400?</questionString>
+        <option>170</option>
+        <option answer="true">180</option>
+        <option>190</option>
+        <option>200</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Mathematics</topic>
+        <questionString>Find the area of a trapezoid with bases 8 and 12, and height 5</questionString>
+        <option>45</option>
+        <option answer="true">50</option>
+        <option>55</option>
+        <option>60</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Mathematics</topic>
+        <questionString>What is the square root of 324?</questionString>
+        <option>17</option>
+        <option answer="true">18</option>
+        <option>19</option>
+        <option>20</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Mathematics</topic>
+        <questionString>Solve for x: 6x + 5 = 41</questionString>
+        <option>5</option>
+        <option answer="true">6</option>
+        <option>7</option>
+        <option>8</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Mathematics</topic>
+        <questionString>Calculate 35% of 300</questionString>
+        <option>95</option>
+        <option answer="true">105</option>
+        <option>115</option>
+        <option>125</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Mathematics</topic>
+        <questionString>Find the perimeter of a square with side length 15</questionString>
+        <option>55</option>
+        <option answer="true">60</option>
+        <option>65</option>
+        <option>70</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Mathematics</topic>
+        <questionString>Find the value of the determinant of \[\begin{bmatrix} 2 &amp; 3 \\ 1 &amp; 4 \end{bmatrix}\].</questionString>
+        <option>10</option>
+        <option answer="true">5</option>
+        <option>-5</option>
+        <option>1</option>
+    </question>
+
+    <!-- 24 HARD Questions -->
+    <question difficulty="HARD">
+        <topic>Mathematics</topic>
+        <questionString>Solve for x: 3x² - 12x + 9 = 0</questionString>
+        <option>1</option>
+        <option answer="true">1 or 3</option>
+        <option>-1</option>
+        <option>3</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Mathematics</topic>
+        <questionString>Find the determinant of the matrix: [[2, 3], [5, 7]]</questionString>
+        <option>1</option>
+        <option answer="true">-1</option>
+        <option>0</option>
+        <option>2</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Mathematics</topic>
+        <questionString>A cone has a height of 12 and a base radius of 6. Find its volume (use π = 3.14).</questionString>
+        <option>450.24</option>
+        <option answer="true">452.16</option>
+        <option>454.08</option>
+        <option>456.00</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Mathematics</topic>
+        <questionString>Simplify: (2x³ + 3x² - x) ÷ (x + 2)</questionString>
+        <option>2x² - x + 2</option>
+        <option answer="true">2x² - x + 1</option>
+        <option>2x² + x - 1</option>
+        <option>2x² - x - 2</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Mathematics</topic>
+        <questionString>If log₄(x) + log₄(2) = 3, find x.</questionString>
+        <option>32</option>
+        <option answer="true">64</option>
+        <option>16</option>
+        <option>128</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Mathematics</topic>
+        <questionString>Find the value of the integral ∫(2x³ - 4x)dx from x = 0 to x = 2.</questionString>
+        <option>8</option>
+        <option>12</option>
+        <option answer="true">16</option>
+        <option>20</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Mathematics</topic>
+        <questionString>A rectangle's diagonal is 13 units long, and one side is 5 units. Find the other side's length.</questionString>
+        <option>12</option>
+        <option answer="true">√144</option>
+        <option>10</option>
+        <option>15</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Mathematics</topic>
+        <questionString>If f(x) = 3x² - 2x + 1, find f'(x).</questionString>
+        <option>3x - 2</option>
+        <option answer="true">6x - 2</option>
+        <option>6x + 2</option>
+        <option>3x² - 2</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Mathematics</topic>
+        <questionString>Solve for x: |3x - 7| = 11</questionString>
+        <option>-2, 6</option>
+        <option answer="true">-4/3, 6</option>
+        <option>3, 7</option>
+        <option>2, 6</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Mathematics</topic>
+        <questionString>Find the limit as x approaches 2: (x² - 4) / (x - 2)</questionString>
+        <option>0</option>
+        <option answer="true">4</option>
+        <option>2</option>
+        <option>6</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Mathematics</topic>
+        <questionString>If sin(x) = 3/5 and cos(x) = 4/5, find tan(2x).</questionString>
+        <option>24/7</option>
+        <option>7/24</option>
+        <option answer="true">24/7</option>
+        <option>21/8</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Mathematics</topic>
+        <questionString>Solve for x: e^(2x) = 7</questionString>
+        <option>ln(7)/2</option>
+        <option answer="true">(1/2)ln(7)</option>
+        <option>ln(7)</option>
+        <option>7/2</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Mathematics</topic>
+        <questionString>Evaluate: ∑(k=1 to 10) k²</questionString>
+        <option>335</option>
+        <option>385</option>
+        <option answer="true">385</option>
+        <option>425</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Mathematics</topic>
+        <questionString>If x² - y² = 45 and x + y = 9, find x and y.</questionString>
+        <option>x = 5, y = 4</option>
+        <option answer="true">x = 6, y = 3</option>
+        <option>x = 7, y = 2</option>
+        <option>x = 8, y = 1</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Mathematics</topic>
+        <questionString>Solve: (x + 1)(x - 2)(x - 3) = 0</questionString>
+        <option>x = 1</option>
+        <option>x = 2</option>
+        <option answer="true">x = -1, 2, 3</option>
+        <option>x = 3</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Mathematics</topic>
+        <questionString>Find the inverse of the function f(x) = 2x + 5.</questionString>
+        <option answer="true">f⁻¹(x) = (x - 5)/2</option>
+        <option>f⁻¹(x) = 2x - 5</option>
+        <option>f⁻¹(x) = x/2 + 5</option>
+        <option>f⁻¹(x) = x/2 - 5</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Mathematics</topic>
+        <questionString>Find the value of cos²(30°) + sin²(30°).</questionString>
+        <option>1</option>
+        <option answer="true">1</option>
+        <option>0</option>
+        <option>1/2</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Mathematics</topic>
+        <questionString>Find the slope of the line passing through the points (3, 7) and (5, 11).</questionString>
+        <option>1</option>
+        <option answer="true">2</option>
+        <option>4</option>
+        <option>3</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Mathematics</topic>
+        <questionString>Evaluate: ∫(5x² + 3x - 2)dx from x = 1 to x = 3</questionString>
+        <option>52</option>
+        <option answer="true">82</option>
+        <option>72</option>
+        <option>62</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Mathematics</topic>
+        <questionString>If a geometric sequence has a first term of 2 and a common ratio of 3, find the 5th term.</questionString>
+        <option>48</option>
+        <option answer="true">162</option>
+        <option>54</option>
+        <option>81</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Mathematics</topic>
+        <questionString>Solve for x: ln(x + 2) = 3</questionString>
+        <option>x = 18</option>
+        <option>x = 15</option>
+        <option>x = 19</option>
+        <option answer="true">x = e³ - 2</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Mathematics</topic>
+        <questionString>Find the roots of the equation: 2x² - 8x + 6 = 0</questionString>
+        <option>x = 1, 2</option>
+        <option answer="true">x = 1, 3</option>
+        <option>x = 2, 3</option>
+        <option>x = 1, 4</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Mathematics</topic>
+        <questionString>A sphere has a radius of 7. Find its surface area (use π = 3.14).</questionString>
+        <option>615.44</option>
+        <option answer="true">615.75</option>
+        <option>614</option>
+        <option>616</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Mathematics</topic>
+        <questionString>If tan(θ) = 3/4, find sin(θ).</questionString>
+        <option>4/5</option>
+        <option answer="true">3/5</option>
+        <option>3/4</option>
+        <option>4/3</option>
+    </question>
+
+    <!-- 24 VERY HARD Questions -->
+    <question difficulty="VERY HARD">
+        <topic>Mathematics</topic>
+        <questionString>Solve the equation: |3x - 7| = |5x + 3|</questionString>
+        <option answer="true">x = -5 or x = 2</option>
+        <option>x = -7 or x = 3</option>
+        <option>x = -3 or x = 1</option>
+        <option>x = 1 or x = 5</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>Mathematics</topic>
+        <questionString>If the sum of the first n terms of an arithmetic progression is Sₙ = 3n² + 5n, find the nth term.</questionString>
+        <option>6n - 5</option>
+        <option>6n + 8</option>
+        <option answer="true">6n - 2</option>
+        <option>3n²</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>Mathematics</topic>
+        <questionString>Find the determinant of the matrix: \[\begin{bmatrix}2 &amp; 3 \\ -1 &amp; 4\end{bmatrix}\]</questionString>
+        <option>7</option>
+        <option>10</option>
+        <option answer="true">11</option>
+        <option>8</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>Mathematics</topic>
+        <questionString>Find the solution to the system of equations: 2x + 3y = 12, x - y = 3</questionString>
+        <option>x = 1, y = 4</option>
+        <option answer="true">x = 6, y = 3</option>
+        <option>x = 4, y = 2</option>
+        <option>x = 5, y = 3</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>Mathematics</topic>
+        <questionString>Evaluate: \(\int_{0}^{π} x \sin(x) dx\)</questionString>
+        <option>π</option>
+        <option>0</option>
+        <option answer="true">2</option>
+        <option>-2</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>Mathematics</topic>
+        <questionString>Find the roots of the polynomial: x³ - 4x² + 6x - 24 = 0</questionString>
+        <option>x = -2, 4, 6</option>
+        <option>x = 3, -2, 4</option>
+        <option>x = 4, -2, -3</option>
+        <option answer="true">x = 2, 3, 4</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>Mathematics</topic>
+        <questionString>Evaluate the limit: \(\lim_{x \to \infty} \frac{x^2 + 3x + 2}{2x^2 - 5x + 7}\)</questionString>
+        <option>0</option>
+        <option>1</option>
+        <option answer="true">1/2</option>
+        <option>Infinity</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>Mathematics</topic>
+        <questionString>Find the eigenvalues of the matrix: \[\begin{bmatrix}4 &amp; 2 \\ 1 &amp; 3\end{bmatrix}\]</questionString>
+        <option>6, 1</option>
+        <option answer="true">5, 2</option>
+        <option>4, 3</option>
+        <option>4, 2</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>Mathematics</topic>
+        <questionString>Solve for x: e^(2x) - 3e^x + 2 = 0</questionString>
+        <option>x = 1, 2</option>
+        <option answer="true">x = 0, ln(2)</option>
+        <option>x = -1, ln(3)</option>
+        <option>x = 0, ln(3)</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>Mathematics</topic>
+        <questionString>The sequence \{aₙ\} is defined recursively by a₁ = 2 and aₙ₊₁ = 3aₙ - 1. Find a₄.</questionString>
+        <option>8</option>
+        <option>22</option>
+        <option answer="true">50</option>
+        <option>78</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>Mathematics</topic>
+        <questionString>Find the general solution of the differential equation: dy/dx = 2xy.</questionString>
+        <option>y = e^(x² + C)</option>
+        <option answer="true">y = Ce^(x²)</option>
+        <option>y = x² + C</option>
+        <option>y = Ce^(2x)</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>Mathematics</topic>
+        <questionString>Find the radius of convergence of the series \(\sum_{n=1}^\infty \frac{x^n}{n!}\).</questionString>
+        <option>0</option>
+        <option>1</option>
+        <option answer="true">Infinity</option>
+        <option>-1</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>Mathematics</topic>
+        <questionString>Evaluate: \(\int_{0}^{1} \frac{\ln(x)}{1+x} dx\)</questionString>
+        <option>-\(π/4\)</option>
+        <option>\(π/2\)</option>
+        <option answer="true">-\(π/6\)</option>
+        <option>\(π/6\)</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>Mathematics</topic>
+        <questionString>Solve the equation: \(x^2 + x - 1 = 0\). Express your answer in terms of the golden ratio \(φ\).</questionString>
+        <option>x = \(φ\) or \(1/φ\)</option>
+        <option>x = \(1-φ\) or \(φ-1\)</option>
+        <option>x = \(-φ\) or \(-1/φ\)</option>
+        <option answer="true">x = \(φ-1\) or \(-1/φ\)</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>Mathematics</topic>
+        <questionString>Find the number of integers \(n\) such that \(0 &lt; n &lt; 1000\) and \(n^2 - 1\) is divisible by 24.</questionString>
+        <option>80</option>
+        <option>90</option>
+        <option>100</option>
+        <option answer="true">120</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>Mathematics</topic>
+        <questionString>Determine the value of \(\sum_{n=1}^\infty \frac{(-1)^{n-1}}{n^2}\).</questionString>
+        <option>\(π^2/6\)</option>
+        <option>\(-π^2/12\)</option>
+        <option answer="true">\(π^2/12\)</option>
+        <option>0</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>Mathematics</topic>
+        <questionString>Find the rank of the matrix: \[\begin{bmatrix}1 &amp; 2 &amp; 3 \\ 2 &amp; 4 &amp; 6 \\ 3 &amp; 6 &amp; 9\end{bmatrix}\]</questionString>
+        <option>1</option>
+        <option answer="true">2</option>
+        <option>3</option>
+        <option>0</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>Mathematics</topic>
+        <questionString>Solve the inequality: \(x^3 - 4x^2 + 5x - 2 > 0\).</questionString>
+        <option>x ∈ \((1,2)\)</option>
+        <option>x ∈ \((0,1) \cup (2,∞)\)</option>
+        <option answer="true">x ∈ \((1,∞)\)</option>
+        <option>x ∈ \((-∞,1) \cup (2,∞)\)</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>Mathematics</topic>
+        <questionString>Prove that the sequence defined by \(a_n = \frac{n!}{n^n}\) converges, and find its limit.</questionString>
+        <option>\(e\)</option>
+        <option>0</option>
+        <option answer="true">1</option>
+        <option>Infinity</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>Mathematics</topic>
+        <questionString>Find the sum of all solutions to the equation: \(\sin(3x) = \cos(2x)\) in the interval \([0, 2π]\).</questionString>
+        <option>\(π/2\)</option>
+        <option answer="true">\(-π/2\)</option>
+        <option>\(0\)</option>
+        <option>\(π\)</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>Mathematics</topic>
+        <questionString>Find the area enclosed by one loop of the curve \(r = 1 + \cos(θ)\).</questionString>
+        <option>\(π/2\)</option>
+        <option answer="true">\((3π)/2\)</option>
+        <option>\(π\)</option>
+        <option>2π</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>Mathematics</topic>
+        <questionString>Find the Fourier series expansion of \(f(x) = x^2\) on the interval \([-π, π]\).</questionString>
+        <option>Fourier coefficients: \(a₀ = π^2/3\), \(aₙ = -1/n^2\), \(bₙ = 0\)</option>
+        <option>Fourier coefficients: \(a₀ = 2π^2/3\), \(aₙ = 1/n^2\), \(bₙ = 0\)</option>
+        <option answer="true">Fourier coefficients: \(a₀ = 2π^2/3\), \(aₙ = -4/(n^2π^2)\), \(bₙ = 0\)</option>
+        <option>Fourier coefficients: \(a₀ = π^2/3\), \(aₙ = 4/(n^2π^2)\), \(bₙ = 0\)</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>Mathematics</topic>
+        <questionString>Solve for x: \(x^4 - 4x^3 + 6x^2 - 4x + 1 = 0\).</questionString>
+        <option>x = 1\</option>
+        <option>x = ±1, ±i</option>
+        <option answer="true">x = 1 (repeated four times)</option>
+        <option>x = 1 or x = -1</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>Mathematics</topic>
+        <questionString>Evaluate: \(\int_{0}^{1} x \ln(1+x) dx\).</questionString>
+        <option>\(1/4\)</option>
+        <option>\(1/3\)</option>
+        <option answer="true">\(1/6\)</option>
+        <option>\(1/2\)</option>
+    </question>
+</questions>
+

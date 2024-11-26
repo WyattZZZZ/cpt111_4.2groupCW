@@ -1,0 +1,794 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+    <question difficulty="EASY">
+        <topic>Electronic Engineering</topic>
+        <questionString>Which of the following is the unit of electric current?</questionString>
+        <option>Volt</option>
+        <option>Ohm</option>
+        <option answer="true">Ampere</option>
+        <option>Watt</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Electronic Engineering</topic>
+        <questionString>What is the typical voltage of a household battery?</questionString>
+        <option>5V</option>
+        <option>12V</option>
+        <option answer="true">1.5V</option>
+        <option>9V</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Electronic Engineering</topic>
+        <questionString>Which of the following is a semiconductor material?</questionString>
+        <option>Gold</option>
+        <option answer="true">Silicon</option>
+        <option>Iron</option>
+        <option>Aluminum</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Electronic Engineering</topic>
+        <questionString>Which of the following is a passive electronic component?</questionString>
+        <option answer="true">Resistor</option>
+        <option>Transistor</option>
+        <option>Diode</option>
+        <option>Capacitor</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Electronic Engineering</topic>
+        <questionString>What is the primary function of a capacitor?</questionString>
+        <option answer="true">To store electrical energy</option>
+        <option>To control current flow</option>
+        <option>To amplify signals</option>
+        <option>To rectify alternating current</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Electronic Engineering</topic>
+        <questionString>What does the acronym LED stand for?</questionString>
+        <option>Light Emitting Diode</option>
+        <option>Laser Emitting Device</option>
+        <option>Low Emission Display</option>
+        <option answer="true">Light Emitting Diode</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Electronic Engineering</topic>
+        <questionString>What is the unit of capacitance?</questionString>
+        <option>Ohm</option>
+        <option answer="true">Farad</option>
+        <option>Volt</option>
+        <option>Watt</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Electronic Engineering</topic>
+        <questionString>Which of the following is the function of a diode in an electrical circuit?</questionString>
+        <option answer="true">To allow current to flow in only one direction</option>
+        <option>To increase voltage</option>
+        <option>To store energy</option>
+        <option>To decrease current</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Electronic Engineering</topic>
+        <questionString>What does the term "AC" stand for in electrical systems?</questionString>
+        <option>Alternating Current</option>
+        <option>Amplified Current</option>
+        <option>Active Current</option>
+        <option answer="true">Alternating Current</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Electronic Engineering</topic>
+        <questionString>Which component is used to increase voltage in a circuit?</questionString>
+        <option answer="true">Transformer</option>
+        <option>Resistor</option>
+        <option>Capacitor</option>
+        <option>Inductor</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Electronic Engineering</topic>
+        <questionString>What is the main function of a fuse in an electrical circuit?</questionString>
+        <option>To store energy</option>
+        <option answer="true">To protect the circuit from overload</option>
+        <option>To amplify signals</option>
+        <option>To regulate current flow</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Electronic Engineering</topic>
+        <questionString>Which of the following is a typical use for a transistor?</questionString>
+        <option answer="true">Amplifying electrical signals</option>
+        <option>Storing electrical energy</option>
+        <option>Controlling the flow of current in a circuit</option>
+        <option>Rectifying alternating current</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Electronic Engineering</topic>
+        <questionString>What is the function of an inductor in a circuit?</questionString>
+        <option>To store charge</option>
+        <option answer="true">To store energy in a magnetic field</option>
+        <option>To increase voltage</option>
+        <option>To decrease resistance</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Electronic Engineering</topic>
+        <questionString>What is the primary difference between AC and DC power?</questionString>
+        <option>AC changes direction; DC flows in one direction</option>
+        <option answer="true">AC changes direction; DC flows in one direction</option>
+        <option>AC flows in one direction; DC changes direction</option>
+        <option>There is no difference</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Electronic Engineering</topic>
+        <questionString>What is the purpose of a circuit breaker?</questionString>
+        <option>To store energy</option>
+        <option answer="true">To interrupt the current flow during overload</option>
+        <option>To amplify signals</option>
+        <option>To protect against voltage surges</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Electronic Engineering</topic>
+        <questionString>Which of the following components is responsible for filtering signals?</questionString>
+        <option>Inductor</option>
+        <option answer="true">Capacitor</option>
+        <option>Resistor</option>
+        <option>Transistor</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Electronic Engineering</topic>
+        <questionString>What is the unit of electrical resistance?</questionString>
+        <option>Volt</option>
+        <option>Ampere</option>
+        <option answer="true">Ohm</option>
+        <option>Watt</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Electronic Engineering</topic>
+        <questionString>What does a potentiometer control in a circuit?</questionString>
+        <option>Current flow</option>
+        <option answer="true">Resistance</option>
+        <option>Voltage</option>
+        <option>Power</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Electronic Engineering</topic>
+        <questionString>Which type of material is used in a thermistor?</questionString>
+        <option>Conductive metal</option>
+        <option answer="true">Semiconductor material</option>
+        <option>Insulating material</option>
+        <option>Resistive material</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Electronic Engineering</topic>
+        <questionString>Which of the following is the main characteristic of an op-amp?</questionString>
+        <option>It can store energy</option>
+        <option>It amplifies voltage</option>
+        <option answer="true">It amplifies voltage difference</option>
+        <option>It regulates current flow</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Electronic Engineering</topic>
+        <questionString>What is the symbol for ground in electrical circuit diagrams?</questionString>
+        <option answer="true">A downward triangle</option>
+        <option>A horizontal line</option>
+        <option>A circle</option>
+        <option>A square</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Electronic Engineering</topic>
+        <questionString>Which component is used to limit the current in a circuit?</questionString>
+        <option answer="true">Resistor</option>
+        <option>Capacitor</option>
+        <option>Inductor</option>
+        <option>Transistor</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Electronic Engineering</topic>
+        <questionString>What is the function of a rectifier in an electrical circuit?</questionString>
+        <option answer="true">To convert AC to DC</option>
+        <option>To increase current</option>
+        <option>To store energy</option>
+        <option>To control voltage</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>Electronic Engineering</topic>
+        <questionString>What type of circuit component is used to store electrical energy for short periods?</questionString>
+        <option answer="true">Capacitor</option>
+        <option>Resistor</option>
+        <option>Inductor</option>
+        <option>Diode</option>
+    </question>
+
+
+
+    <question difficulty="MEDIUM">
+        <topic>Electronic Engineering</topic>
+        <questionString>What is the primary function of a transistor in a circuit?</questionString>
+        <option>To store energy</option>
+        <option>To amplify signals</option>
+        <option answer="true">To switch electrical signals</option>
+        <option>To limit current</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Electronic Engineering</topic>
+        <questionString>Which of the following components is used to filter out noise in power supplies?</questionString>
+        <option>Inductor</option>
+        <option answer="true">Capacitor</option>
+        <option>Diode</option>
+        <option>Resistor</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Electronic Engineering</topic>
+        <questionString>What is the unit of capacitance?</questionString>
+        <option>Ohm</option>
+        <option>Volt</option>
+        <option answer="true">Farad</option>
+        <option>Ampere</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Electronic Engineering</topic>
+        <questionString>In a series RLC circuit, what happens at the resonance frequency?</questionString>
+        <option>Impedance is minimized</option>
+        <option>Current is minimized</option>
+        <option>Power is maximized</option>
+        <option answer="true">Impedance is maximized</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Electronic Engineering</topic>
+        <questionString>What does a transformer primarily do in an AC circuit?</questionString>
+        <option answer="true">Change voltage levels</option>
+        <option>Regulate current flow</option>
+        <option>Store energy</option>
+        <option>Convert AC to DC</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Electronic Engineering</topic>
+        <questionString>Which type of diode is used for rectifying alternating current (AC) to direct current (DC)?</questionString>
+        <option>LED</option>
+        <option>Zener</option>
+        <option>Schottky</option>
+        <option answer="true">P-N junction</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Electronic Engineering</topic>
+        <questionString>Which electronic component is used for storing electrical energy in a circuit?</questionString>
+        <option>Inductor</option>
+        <option>Transistor</option>
+        <option>Capacitor</option>
+        <option answer="true">Capacitor</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Electronic Engineering</topic>
+        <questionString>What is the main purpose of a voltage regulator in a power supply?</questionString>
+        <option>Increase voltage</option>
+        <option>Convert AC to DC</option>
+        <option answer="true">Maintain a constant voltage output</option>
+        <option>Reduce current</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Electronic Engineering</topic>
+        <questionString>In an RLC circuit, which element opposes changes in current?</questionString>
+        <option>Resistor</option>
+        <option answer="true">Inductor</option>
+        <option>Capacitor</option>
+        <option>Diode</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Electronic Engineering</topic>
+        <questionString>What is the unit of inductance?</questionString>
+        <option>Ampere</option>
+        <option>Ohm</option>
+        <option answer="true">Henry</option>
+        <option>Volt</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Electronic Engineering</topic>
+        <questionString>Which of the following is NOT a type of amplifier?</questionString>
+        <option>Transistor amplifier</option>
+        <option>Operational amplifier</option>
+        <option>Class-D amplifier</option>
+        <option answer="true">Rectifier amplifier</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Electronic Engineering</topic>
+        <questionString>What does an oscilloscope measure?</questionString>
+        <option>Current</option>
+        <option answer="true">Voltage signals</option>
+        <option>Resistance</option>
+        <option>Frequency</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Electronic Engineering</topic>
+        <questionString>What is the primary purpose of a diode in a circuit?</questionString>
+        <option answer="true">Allow current to flow in only one direction</option>
+        <option>Store electrical charge</option>
+        <option>Regulate voltage</option>
+        <option>Amplify current</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Electronic Engineering</topic>
+        <questionString>Which of the following is used to measure the amount of electrical energy consumed in a circuit?</questionString>
+        <option>Tetrameter</option>
+        <option>Voltmeter</option>
+        <option>Oscilloscope</option>
+        <option answer="true">Wattmeter</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Electronic Engineering</topic>
+        <questionString>In a parallel RLC circuit, what happens at the resonance frequency?</questionString>
+        <option answer="true">Impedance is minimized</option>
+        <option>Current is minimized</option>
+        <option>Power is maximized</option>
+        <option>Inductive reactance equals capacitive reactance</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Electronic Engineering</topic>
+        <questionString>What does a rectifier circuit do?</questionString>
+        <option answer="true">Converts AC to DC</option>
+        <option>Amplifies signals</option>
+        <option>Filters noise</option>
+        <option>Stores energy</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Electronic Engineering</topic>
+        <questionString>Which material is most commonly used for making semiconductor devices?</questionString>
+        <option>Silicon</option>
+        <option>Gold</option>
+        <option answer="true">Silicon</option>
+        <option>Aluminum</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Electronic Engineering</topic>
+        <questionString>What is the effect of increasing resistance in a circuit with constant voltage?</questionString>
+        <option>Current increases</option>
+        <option>Voltage increases</option>
+        <option>Power increases</option>
+        <option answer="true">Current decreases</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Electronic Engineering</topic>
+        <questionString>What is the main difference between a series and parallel circuit?</questionString>
+        <option>Current is the same in both circuits</option>
+        <option>Voltage is the same in both circuits</option>
+        <option>In a series circuit, components share the same current</option>
+        <option answer="true">In a parallel circuit, components share the same voltage</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Electronic Engineering</topic>
+        <questionString>Which of the following is used to reduce the effects of inductive kickback in inductive loads?</questionString>
+        <option>Flyback diode</option>
+        <option answer="true">Flyback diode</option>
+        <option>Relay</option>
+        <option>Transformer</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Electronic Engineering</topic>
+        <questionString>What type of signal does a frequency generator produce?</questionString>
+        <option>Sine wave</option>
+        <option>Square wave</option>
+        <option>Pulse signal</option>
+        <option answer="true">All of the above</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Electronic Engineering</topic>
+        <questionString>What is the main function of an amplifier?</questionString>
+        <option>Increase current</option>
+        <option>Decrease voltage</option>
+        <option answer="true">Increase the amplitude of a signal</option>
+        <option>Reduce noise</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Electronic Engineering</topic>
+        <questionString>What is the primary function of a capacitor in a filter circuit?</questionString>
+        <option>Store electrical energy</option>
+        <option>Control current flow</option>
+        <option answer="true">Smooth out voltage fluctuations</option>
+        <option>Regulate power supply</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>Electronic Engineering</topic>
+        <questionString>Which component is commonly used to limit current in an electronic circuit?</questionString>
+        <option>Capacitor</option>
+        <option>Inductor</option>
+        <option>Diode</option>
+        <option answer="true">Resistor</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>Which of the following is a primary characteristic of an ideal op-amp?</questionString>
+        <option>Finite input impedance</option>
+        <option>Zero output impedance</option>
+        <option answer="true">Infinite input impedance</option>
+        <option>Non-linear gain</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>What is the typical use of a Zener diode in electronic circuits?</questionString>
+        <option>Current limiting</option>
+        <option>Voltage regulation</option>
+        <option answer="true">Voltage breakdown</option>
+        <option>Signal amplification</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>Which device is most suitable for converting digital signals to analog signals?</questionString>
+        <option>LED</option>
+        <option>Inductor</option>
+        <option>Resistor</option>
+        <option answer="true">DAC (Digital-to-Analog Converter)</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>What is the main function of a bypass capacitor in a DC circuit?</questionString>
+        <option>Limit current flow</option>
+        <option answer="true">Stabilize voltage levels</option>
+        <option>Increase power consumption</option>
+        <option>Act as a resistor</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>Which of the following is an essential characteristic of a high-pass filter?</questionString>
+        <option>It allows low frequencies to pass through</option>
+        <option>It blocks high frequencies</option>
+        <option answer="true">It allows high frequencies to pass through</option>
+        <option>It amplifies signals</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>In a transistor amplifier, what is the purpose of the biasing network?</questionString>
+        <option answer="true">To set the operating point of the transistor</option>
+        <option>To filter the signal</option>
+        <option>To increase signal gain</option>
+        <option>To reduce power consumption</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>What is the most likely effect of using a very small base current in a BJT amplifier?</questionString>
+        <option>Excessive voltage gain</option>
+        <option>Power loss</option>
+        <option answer="true">Insufficient transistor conduction</option>
+        <option>Signal distortion</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>Which type of modulation is commonly used in digital communication systems?</questionString>
+        <option>AM (Amplitude Modulation)</option>
+        <option answer="true">PSK (Phase Shift Keying)</option>
+        <option>FM (Frequency Modulation)</option>
+        <option>PM (Pulse Modulation)</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>In a full-wave rectifier, which component is essential for converting AC to DC?</questionString>
+        <option>Inductor</option>
+        <option>Capacitor</option>
+        <option>Resistor</option>
+        <option answer="true">Diodes</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>What happens when a MOSFET is in saturation mode?</questionString>
+        <option>It acts as a voltage switch</option>
+        <option answer="true">It operates as a current amplifier</option>
+        <option>It behaves like a resistor</option>
+        <option>It allows the source and drain to short-circuit</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>Which parameter in an RLC circuit determines the resonance frequency?</questionString>
+        <option>Capacitance value</option>
+        <option answer="true">Inductance and capacitance values</option>
+        <option>Resistance value</option>
+        <option>Voltage level</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>In a differential amplifier, what is the role of the common-mode rejection ratio (CMRR)?</questionString>
+        <option>It amplifies the common-mode signals</option>
+        <option>It reduces the effect of noise</option>
+        <option answer="true">It rejects common-mode signals</option>
+        <option>It increases the output voltage</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>Which of the following is used to store energy in an inductor?</questionString>
+        <option>Electric field</option>
+        <option>Magnetic field</option>
+        <option answer="true">Magnetic energy</option>
+        <option>Electrical charge</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>What is the primary function of an integrated circuit (IC)?</questionString>
+        <option>Amplify signals</option>
+        <option>Regulate power</option>
+        <option answer="true">Miniaturize complex circuits</option>
+        <option>Store electrical energy</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>What happens if an op-amp operates with a voltage difference greater than its maximum input differential voltage?</questionString>
+        <option>It enters saturation</option>
+        <option answer="true">It may cause distortion or clipping</option>
+        <option>It causes feedback failure</option>
+        <option>It reduces the output gain</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>Which of the following is a characteristic of a voltage-controlled oscillator (VCO)?</questionString>
+        <option>It generates a fixed frequency signal</option>
+        <option>It requires an external clock</option>
+        <option answer="true">Its frequency varies with input voltage</option>
+        <option>It amplifies low-frequency signals</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>What is the effect of increasing the frequency of a signal in an RLC circuit?</questionString>
+        <option>Increases the impedance</option>
+        <option>Decreases the impedance</option>
+        <option answer="true">Causes the circuit to resonate at a specific point</option>
+        <option>Reduces the voltage across the components</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>Which type of transistor is primarily used for switching applications?</questionString>
+        <option>BJT</option>
+        <option answer="true">MOSFET</option>
+        <option>Diode</option>
+        <option>SCR</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>What is the role of a transformer in a power supply circuit?</questionString>
+        <option>To filter signals</option>
+        <option>To store energy</option>
+        <option answer="true">To step up or step down voltage levels</option>
+        <option>To regulate current flow</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>What is the main advantage of using a differential amplifier?</questionString>
+        <option>It amplifies only common-mode signals</option>
+        <option>It provides high power gain</option>
+        <option answer="true">It amplifies the difference between two signals while rejecting common-mode signals</option>
+        <option>It reduces signal distortion</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>Which type of diode is typically used in reverse bias for voltage regulation?</questionString>
+        <option>PN junction diode</option>
+        <option answer="true">Zener diode</option>
+        <option>Schottky diode</option>
+        <option>Light-emitting diode</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>What is the primary use of a band-pass filter in communication systems?</questionString>
+        <option>To pass all frequencies</option>
+        <option>To block all frequencies</option>
+        <option answer="true">To allow a specific range of frequencies to pass through</option>
+        <option>To increase signal strength</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>Which configuration is typically used for a high-gain amplifier circuit?</questionString>
+        <option>Common-emitter configuration</option>
+        <option answer="true">Common-collector configuration</option>
+        <option>Common-base configuration</option>
+        <option>Emitter-follower configuration</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>Which of the following parameters is most critical in determining the cutoff frequency of a low-pass filter?</questionString>
+        <option>Capacitance</option>
+        <option>Resistance</option>
+        <option>Inductance</option>
+        <option answer="true">Capacitance and resistance</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>In a semiconductor, what type of charge carriers dominate in an n-type material?</questionString>
+        <option>Electrons</option>
+        <option>Protons</option>
+        <option>Holes</option>
+        <option answer="true">Electrons in the conduction band</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>In an op-amp, what happens when the feedback loop is broken?</questionString>
+        <option>It operates in linear mode</option>
+        <option>It becomes unstable and may saturate</option>
+        <option>It provides negative feedback</option>
+        <option answer="true">It becomes an open-loop amplifier</option>
+    </question>
+
+    <question difficulty="VERY_HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>What is the primary reason for using a differential amplifier in signal processing?</questionString>
+        <option>To amplify all input signals equally</option>
+        <option>To cancel out common-mode noise</option>
+        <option answer="true">To amplify the difference between two input signals</option>
+        <option>To provide high frequency gain</option>
+    </question>
+    <question difficulty="VERY_HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>Which method is used to minimize distortion in an audio amplifier circuit?</questionString>
+        <option>Negative feedback</option>
+        <option answer="true">Class A operation</option>
+        <option>Class D operation</option>
+        <option>Positive feedback</option>
+    </question>
+    <question difficulty="VERY_HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>What is the effect of parasitic capacitance in high-speed digital circuits?</questionString>
+        <option>It increases the signal strength</option>
+        <option answer="true">It causes signal delay and reduces bandwidth</option>
+        <option>It enhances the circuit’s noise immunity</option>
+        <option>It has no effect on the performance</option>
+    </question>
+    <question difficulty="VERY_HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>What is the role of a Schottky diode in high-speed switching circuits?</questionString>
+        <option>To increase the voltage drop</option>
+        <option answer="true">To reduce forward voltage drop and switching time</option>
+        <option>To amplify the input signal</option>
+        <option>To reverse the signal polarity</option>
+    </question>
+    <question difficulty="VERY_HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>What is the purpose of the biasing network in a transistor amplifier circuit?</questionString>
+        <option>To provide stability and set the operating point</option>
+        <option>To increase the voltage gain</option>
+        <option answer="true">To establish a constant current flow through the transistor</option>
+        <option>To limit the input voltage</option>
+    </question>
+    <question difficulty="VERY_HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>In a digital-to-analog converter (DAC), what is the function of the R-2R ladder network?</questionString>
+        <option answer="true">To convert binary weighted voltages into a proportional output</option>
+        <option>To amplify the digital input signal</option>
+        <option>To reduce the quantization error</option>
+        <option>To provide noise filtering</option>
+    </question>
+    <question difficulty="VERY_HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>How does temperature variation affect the characteristics of a semiconductor diode?</questionString>
+        <option>It increases the forward voltage drop</option>
+        <option>It reduces the reverse leakage current</option>
+        <option answer="true">It decreases the forward voltage and increases reverse leakage current</option>
+        <option>It has no effect</option>
+    </question>
+    <question difficulty="VERY_HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>What is the main advantage of using a CMOS logic circuit over a TTL logic circuit?</questionString>
+        <option answer="true">Lower power consumption</option>
+        <option>Higher speed of operation</option>
+        <option>Better noise immunity</option>
+        <option>Lower input voltage</option>
+    </question>
+    <question difficulty="VERY_HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>In a Phase Locked Loop (PLL), what does the Voltage-Controlled Oscillator (VCO) do?</questionString>
+        <option>It filters the incoming signal</option>
+        <option>It locks the phase with the reference signal</option>
+        <option>It adjusts the frequency of the output signal</option>
+        <option answer="true">It generates an oscillating signal whose frequency is controlled by an external voltage</option>
+    </question>
+    <question difficulty="VERY_HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>What is the effect of increasing the capacitance in a high-frequency low-pass filter?</questionString>
+        <option>It increases the cutoff frequency</option>
+        <option>It decreases the impedance</option>
+        <option>It reduces the bandwidth</option>
+        <option answer="true">It lowers the cutoff frequency</option>
+    </question>
+    <question difficulty="VERY_HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>In a resonance circuit, what happens when the impedance is at its minimum?</questionString>
+        <option>Maximum energy is stored in the capacitor</option>
+        <option>Minimum energy is stored in the inductor</option>
+        <option>Current is zero</option>
+        <option answer="true">The circuit resonates, and the current is at its maximum</option>
+    </question>
+    <question difficulty="VERY_HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>In a frequency-modulated (FM) signal, how does the amplitude of the carrier change?</questionString>
+        <option>It increases linearly with frequency</option>
+        <option>It remains constant</option>
+        <option>It decreases with modulation depth</option>
+        <option answer="true">It remains constant, while frequency varies</option>
+    </question>
+    <question difficulty="VERY_HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>In a MOSFET, what happens when the gate voltage exceeds the threshold voltage?</questionString>
+        <option>It causes a reduction in channel resistance</option>
+        <option>It opens the channel completely</option>
+        <option answer="true">It creates an inversion layer and allows current to flow between source and drain</option>
+        <option>It causes the MOSFET to turn off</option>
+    </question>
+    <question difficulty="VERY_HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>What is the main disadvantage of using bipolar transistors in high-frequency applications?</questionString>
+        <option>They have high power consumption</option>
+        <option>They have low gain</option>
+        <option answer="true">They have a limited frequency response due to charge storage</option>
+        <option>They are prone to thermal runaway</option>
+    </question>
+    <question difficulty="VERY_HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>In a charge-coupled device (CCD), what does the clock signal control?</questionString>
+        <option>It controls the light sensitivity</option>
+        <option>It generates the image pixels</option>
+        <option>It amplifies the signal</option>
+        <option answer="true">It controls the shifting of charge packets through the device</option>
+    </question>
+    <question difficulty="VERY_HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>What is the effect of increasing the inductance in a low-pass filter?</questionString>
+        <option>It increases the cutoff frequency</option>
+        <option>It increases the filter's resistance</option>
+        <option answer="true">It lowers the cutoff frequency</option>
+        <option>It decreases the impedance</option>
+    </question>
+    <question difficulty="VERY_HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>What is the primary function of an operational amplifier (op-amp) in an integrator circuit?</questionString>
+        <option answer="true">To output the integral of the input signal with respect to time</option>
+        <option>To amplify the input signal</option>
+        <option>To differentiate the input signal</option>
+        <option>To filter the signal</option>
+    </question>
+    <question difficulty="VERY_HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>In a switched-mode power supply (SMPS), what is the function of the inductor?</questionString>
+        <option>To smooth out the output voltage</option>
+        <option>To store and release energy in response to the switching frequency</option>
+        <option answer="true">To limit the rate of current change and reduce ripple</option>
+        <option>To convert AC to DC</option>
+    </question>
+    <question difficulty="VERY_HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>In a distributed amplifier, how is the signal gain achieved?</questionString>
+        <option>By using a feedback loop</option>
+        <option>By increasing the input signal amplitude</option>
+        <option>By using parallel signal paths</option>
+        <option answer="true">By utilizing multiple stages of amplification in a cascaded manner</option>
+    </question>
+    <question difficulty="VERY_HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>What is the purpose of the compensation capacitor in a high-speed operational amplifier?</questionString>
+        <option>To reduce power consumption</option>
+        <option>To increase the bandwidth</option>
+        <option answer="true">To stabilize the op-amp and prevent oscillations at high frequencies</option>
+        <option>To reduce noise interference</option>
+    </question>
+    <question difficulty="VERY_HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>In a CMOS logic gate, what is the significance of the P-channel MOSFET and N-channel MOSFET?</questionString>
+        <option>They work independently to amplify signals</option>
+        <option answer="true">They form complementary pairs to perform logic operations with low power consumption</option>
+        <option>They create a feedback loop to increase the gate speed</option>
+        <option>They are used for analog signal processing</option>
+    </question>
+    <question difficulty="VERY_HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>How does the Miller effect impact high-frequency transistor amplifier circuits?</questionString>
+        <option answer="true">It increases the effective capacitance between the base and collector, reducing bandwidth</option>
+        <option>It increases the gain of the amplifier at high frequencies</option>
+        <option>It reduces the power consumption at higher frequencies</option>
+        <option>It helps to stabilize the amplifier at higher frequencies</option>
+    </question>
+    <question difficulty="VERY_HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>What is the role of the feedback resistor in a voltage divider circuit used for biasing a transistor?</questionString>
+        <option>To set the gain of the transistor amplifier</option>
+        <option>To stabilize the current flowing through the transistor</option>
+        <option answer="true">To control the voltage at the base of the transistor and ensure proper operation</option>
+        <option>To provide a constant voltage source for the circuit</option>
+    </question>
+    <question difficulty="VERY_HARD">
+        <topic>Electronic Engineering</topic>
+        <questionString>In a balanced mixer used in communication systems, how does the input signal get converted to an intermediate frequency (IF)?</questionString>
+        <option>By direct multiplication of the input signal and local oscillator signal</option>
+        <option>By filtering out the high-frequency components</option>
+        <option>By phase shifting the input signal</option>
+        <option answer="true">By combining the input signal with the local oscillator signal in a nonlinear device</option>
+    </question>
+</questions>
+
+
+

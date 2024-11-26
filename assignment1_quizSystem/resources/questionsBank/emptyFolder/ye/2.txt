@@ -1,0 +1,3 @@
+EASY, Which of the following is a passive electronic component?, ee, Resistor, Transistor, Diode, Capacitor, [correctAnswer] Resistor, Transistor
+EASY, Which of the following is the function of a diode in an electrical circuit?, ee, To allow current to flow in only one direction, To increase voltage, To store energy, To decrease current, [correctAnswer] To allow current to flow in only one direction, To decrease current
+EASY, Which of the following is a semiconductor material?, ee, Gold, Silicon, Iron, Aluminum, [correctAnswer] Silicon, Silicon

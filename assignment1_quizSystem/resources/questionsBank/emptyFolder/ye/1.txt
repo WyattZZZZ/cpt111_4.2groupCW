@@ -1,0 +1,3 @@
+HARD, What happens when a MOSFET is in saturation mode?, ee, It acts as a voltage switch, It operates as a current amplifier, It behaves like a resistor, It allows the source and drain to short-circuit, [correctAnswer] It operates as a current amplifier, It behaves like a resistor
+MEDIUM, In an RLC circuit, which element opposes changes in current?, ee, Resistor, Inductor, Capacitor, Diode, [correctAnswer] Inductor, Capacitor
+EASY, Which of the following is the function of a diode in an electrical circuit?, ee, To allow current to flow in only one direction, To increase voltage, To store energy, To decrease current, [correctAnswer] To allow current to flow in only one direction, To allow current to flow in only one direction

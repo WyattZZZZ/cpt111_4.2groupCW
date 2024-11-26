@@ -1,0 +1,3 @@
+EASY, What does the acronym LED stand for?, ee, Light Emitting Diode, Laser Emitting Device, Low Emission Display, Light Emitting Diode, [correctAnswer] Light Emitting Diode, Laser Emitting Device
+EASY, What is the unit of electrical resistance?, ee, Volt, Ampere, Ohm, Watt, [correctAnswer] Ohm, Ampere
+EASY, What does the term "AC" stand for in electrical systems?, ee, Alternating Current, Amplified Current, Active Current, Alternating Current, [correctAnswer] Alternating Current, Amplified Current

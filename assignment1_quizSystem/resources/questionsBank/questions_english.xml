@@ -1,0 +1,778 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions>
+    <!-- 24 EASY English Questions -->
+    <question difficulty="EASY">
+        <topic>English</topic>
+        <questionString>What is the plural form of "child"?</questionString>
+        <option answer="true">Children</option>
+        <option>Childs</option>
+        <option>Childes</option>
+        <option>Childerns</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>English</topic>
+        <questionString>Which of the following is a synonym for "happy"?</questionString>
+        <option>Sad</option>
+        <option>Angry</option>
+        <option answer="true">Joyful</option>
+        <option>Upset</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>English</topic>
+        <questionString>Which word is the opposite of "early"?</questionString>
+        <option>Quick</option>
+        <option answer="true">Late</option>
+        <option>Fast</option>
+        <option>Long</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>English</topic>
+        <questionString>What is the correct past tense of the verb "go"?</questionString>
+        <option>Goed</option>
+        <option>Going</option>
+        <option>Gone</option>
+        <option answer="true">Went</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>English</topic>
+        <questionString>Which of the following is a sentence fragment?</questionString>
+        <option>The dog ran quickly.</option>
+        <option>She sings beautifully.</option>
+        <option>I was tired.</option>
+        <option answer="true">Because I was late.</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>English</topic>
+        <questionString>Which of the following words is an adjective?</questionString>
+        <option>Quickly</option>
+        <option answer="true">Beautiful</option>
+        <option>Run</option>
+        <option>Jumping</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>English</topic>
+        <questionString>What is the correct form of the verb in the sentence "She ______ to the store yesterday"?</questionString>
+        <option>Goes</option>
+        <option>Will go</option>
+        <option answer="true">Went</option>
+        <option>Going</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>English</topic>
+        <questionString>Which word completes the sentence: "She ______ a book right now"?</questionString>
+        <option>Read</option>
+        <option>Reads</option>
+        <option>Reading</option>
+        <option answer="true">Is reading</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>English</topic>
+        <questionString>Which of the following is an example of a possessive noun?</questionString>
+        <option answer="true">John's car</option>
+        <option>John car</option>
+        <option>Johns car</option>
+        <option>John car's</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>English</topic>
+        <questionString>What is the subject of the sentence: "The dog barked loudly"?</questionString>
+        <option>The dog</option>
+        <option>Barked</option>
+        <option>Loudly</option>
+        <option>Dog</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>English</topic>
+        <questionString>Which of the following words is an adverb?</questionString>
+        <option>Quick</option>
+        <option answer="true">Quickly</option>
+        <option>Quickness</option>
+        <option>Quicklyness</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>English</topic>
+        <questionString>Which word is a conjunction in the sentence: "I want to go to the park, but it's raining"?</questionString>
+        <option>Park</option>
+        <option answer="true">But</option>
+        <option>Raining</option>
+        <option>Want</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>English</topic>
+        <questionString>Which of the following is a comparative adjective?</questionString>
+        <option>Smallest</option>
+        <option>Big</option>
+        <option answer="true">Bigger</option>
+        <option>Quickly</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>English</topic>
+        <questionString>Which sentence is in the future tense?</questionString>
+        <option>I walked to the store</option>
+        <option>I am walking to the store</option>
+        <option>I will walked to the store</option>
+        <option answer="true">I will walk to the store</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>English</topic>
+        <questionString>What is the correct form of the word in the sentence: "She is a very ______ singer"?</questionString>
+        <option answer="true">Good</option>
+        <option>Well</option>
+        <option>Better</option>
+        <option>Best</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>English</topic>
+        <questionString>Which word is a preposition?</questionString>
+        <option>Jump</option>
+        <option answer="true">Under</option>
+        <option>Sing</option>
+        <option>Quickly</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>English</topic>
+        <questionString>Which of the following is an example of a declarative sentence?</questionString>
+        <option>What time is it?</option>
+        <option>Close the door!</option>
+        <option answer="true">I like ice cream.</option>
+        <option>Are you coming with us?</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>English</topic>
+        <questionString>What is the plural form of "mouse"?</questionString>
+        <option answer="true">Mice</option>
+        <option>Mouses</option>
+        <option>Mousees</option>
+        <option>Mouseys</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>English</topic>
+        <questionString>Which word is the verb in the sentence: "She reads a book every day"?</questionString>
+        <option>She</option>
+        <option>Reads</option>
+        <option>Book</option>
+        <option answer="true">Reads</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>English</topic>
+        <questionString>What type of word is "quickly" in the sentence: "She runs quickly"?</questionString>
+        <option>Adjective</option>
+        <option answer="true">Adverb</option>
+        <option>Verb</option>
+        <option>Noun</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>English</topic>
+        <questionString>Which of the following is a compound sentence?</questionString>
+        <option>I like tea.</option>
+        <option>I like tea,  she likes coffee.</option>
+        <option answer="true">I like tea, and she likes coffee.</option>
+        <option>Tea is good.</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>English</topic>
+        <questionString>What is the correct form of the verb in the sentence: "I ______ the movie yesterday"?</questionString>
+        <option>Watch</option>
+        <option>Watches</option>
+        <option>Watching</option>
+        <option answer="true">Watched</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>English</topic>
+        <questionString>Which of the following is a plural noun?</questionString>
+        <option>Cat</option>
+        <option>Pig</option>
+        <option answer="true">Children</option>
+        <option>Dog</option>
+    </question>
+    <question difficulty="EASY">
+        <topic>English</topic>
+        <questionString>Which of the following is a verb?</questionString>
+        <option answer="true">Run</option>
+        <option>Happy</option>
+        <option>Blue</option>
+        <option>Quickly</option>
+    </question>
+    <!-- 24 MEDIUM English Questions -->
+    <question difficulty="MEDIUM">
+        <topic>English</topic>
+        <questionString>What is the correct form of the verb in the sentence "When I got there, they ______ the meeting for an hour."?</questionString>
+        <option>had been having</option>
+        <option>were having</option>
+        <option>have had</option>
+        <option answer="true">had been having</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>English</topic>
+        <questionString>Which of the following words can be used as both a noun and a verb? (Choose two)</questionString>
+        <option>Fire</option>
+        <option>Wind</option>
+        <option answer="true">Play</option>
+        <option answer="true">Guide</option>
+        <option>Stone</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>English</topic>
+        <questionString>Identify the gerund in the sentence: "Singing gives me great pleasure."</questionString>
+        <option>Singing</option>
+        <option>Gives</option>
+        <option>Me</option>
+        <option>Great</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>English</topic>
+        <questionString>What is the passive voice form of the sentence "The artist painted a beautiful landscape."?</questionString>
+        <option>A beautiful landscape was painted by the artists.</option>
+        <option>The artist got a beautiful landscape painted.</option>
+        <option answer="true">A beautiful landscape was painted by the artist.</option>
+        <option>Neither A nor B is correct.</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>English</topic>
+        <questionString>Which of the following sentences contains an infinitive?</questionString>
+        <option>She is listening to music.</option>
+        <option>He rushed to the station.</option>
+        <option answer="true">I plan to learn a new language.</option>
+        <option>They are laughing loudly.</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>English</topic>
+        <questionString>What is the correct form of the adjective in the sentence "This is the ______ river in the country."?</questionString>
+        <option>long</option>
+        <option>longer</option>
+        <option answer="true">longest</option>
+        <option>more long</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>English</topic>
+        <questionString>Choose the correct relative pronoun to complete the sentence: "The man ______ I met yesterday is a famous scientist."</questionString>
+        <option>who</option>
+        <option>whom</option>
+        <option answer="true">that</option>
+        <option>which</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>English</topic>
+        <questionString>Which of the following is a phrasal verb? </questionString>
+        <option>Look</option>
+        <option>Answer</option>
+        <option answer="true">Set up</option>
+        <option>Think</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>English</topic>
+        <questionString>What is the correct form of the verb in the sentence "If it rains heavily, we ______ cancel the trip."?</questionString>
+        <option>stay</option>
+        <option>will stay</option>
+        <option>would stay</option>
+        <option answer="true">will</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>English</topic>
+        <questionString>Identify the participle in the sentence: "The written report needs to be submitted."</questionString>
+        <option>The</option>
+        <option>report</option>
+        <option>needs</option>
+        <option answer="true">written</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>English</topic>
+        <questionString>Which of the following sentences is in the subjunctive mood?</questionString>
+        <option>I eat breakfast every day.</option>
+        <option>He is writing a story.</option>
+        <option answer="true">If I were taller, I could reach the shelf."</option>
+        <option>They have solved the problem.</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>English</topic>
+        <questionString>What is the correct form of the pronoun in the sentence "Between you and ______, I find this difficult."?</questionString>
+        <option>I</option>
+        <option>mine</option>
+        <option>myself</option>
+        <option answer="true">me</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>English</topic>
+        <questionString>Choose the correct preposition to complete the sentence: "She is proficient ______ dancing."</questionString>
+        <option>of</option>
+        <option>in</option>
+        <option>on</option>
+        <option answer="true">at</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>English</topic>
+        <questionString>Which of the following is a countable noun? </questionString>
+        <option>Water</option>
+        <option>Air</option>
+        <option answer="true">Flower</option>
+        <option>Love</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>English</topic>
+        <questionString>What is the correct form of the verb in the sentence "I wish I ______ a better memory."?</questionString>
+        <option>have</option>
+        <option>would had</option>
+        <option>will have</option>
+        <option answer="true">had</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>English</topic>
+        <questionString>Identify the appositive in the sentence: "My colleague, Mary, is very helpful."</questionString>
+        <option>My</option>
+        <option>colleague</option>
+        <option answer="true">Mary</option>
+        <option>is very helpful</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>English</topic>
+        <questionString>Which of the following sentences uses the correct form of the modal verb? "You ______ wear a helmet when riding a bike."</questionString>
+        <option>can</option>
+        <option>ought</option>
+        <option>must to</option>
+        <option answer="true">should</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>English</topic>
+        <questionString>What is the correct form of the adjective in the sentence "This book is ______ than that one."?</questionString>
+        <option>interester</option>
+        <option>more interesting</option>
+        <option>interestinger</option>
+        <option answer="true">more interesting</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>English</topic>
+        <questionString>Choose the correct conjunction to complete the sentence: "I like music, ______ I don't like noise."</questionString>
+        <option>and</option>
+        <option>or</option>
+        <option answer="true">but</option>
+        <option>because</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>English</topic>
+        <questionString>Which of the following is an indefinite pronoun? </questionString>
+        <option>Somebody</option>
+        <option>Bodies</option>
+        <option>Everybody</option>
+        <option answer="true">Anybody</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>English</topic>
+        <questionString>What is the correct form of the verb in the sentence "He ______ to the party if he had known about it."?</questionString>
+        <option>will go</option>
+        <option>would go</option>
+        <option>goes</option>
+        <option answer="true">would have gone</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>English</topic>
+        <questionString>Identify the indirect object in the sentence: "They brought us some food."</questionString>
+        <option>They</option>
+        <option>brought</option>
+        <option answer="true">us</option>
+        <option>food</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>English</topic>
+        <questionString>Which of the following is a collective noun? </questionString>
+        <option>Crew</option>
+        <option>Crowds</option>
+        <option>Chair</option>
+        <option answer="true">Crowd</option>
+    </question>
+    <question difficulty="MEDIUM">
+        <topic>English</topic>
+        <questionString>What is the correct form of the verb in the sentence "The bus ______ at 9:00 am."?</questionString>
+        <option>leave</option>
+        <option>leaving</option>
+        <option>left</option>
+        <option answer="true">leaves</option>
+    </question>
+    ```xml
+    <!-- 24 HARD English Questions -->
+    <question difficulty="HARD">
+        <topic>English</topic>
+        <questionString>What is the correct form of the verb in the sentence "Hardly had I finished my work when he ______ asking for help."?</questionString>
+        <option>starting</option>
+        <option>has started</option>
+        <option>had started</option>
+        <option answer="true">started</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>English</topic>
+        <questionString>Which of the following sentences uses the correct form of the subjunctive mood for a past unreal condition? </questionString>
+        <option>If I was you, I would have taken that opportunity.</option>
+        <option>If he were here, we could solve the problem.</option>
+        <option answer="true">Had I known the truth, I would have acted differently.</option>
+        <option>If they have time, they will come.</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>English</topic>
+        <questionString>Identify the dangling modifier in the sentence: "He is walking through the park where the flowers looked beautiful."</questionString>
+        <option>Walking through the park</option>
+        <option>the flowers</option>
+        <option answer="true">looked</option>
+        <option>beautiful</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>English</topic>
+        <questionString>What is the correct form of the gerund in the sentence "I appreciate his ______ me with the project."?</questionString>
+        <option>help</option>
+        <option>helps</option>
+        <option answer="true">helping</option>
+        <option>helped</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>English</topic>
+        <questionString>Which of the following is a correct example of ellipsis? "She can play the piano and ______ the guitar."</questionString>
+        <option>play</option>
+        <option>plays</option>
+        <option>played</option>
+        <option answer="true">can play</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>English</topic>
+        <questionString>What is the correct form of the adjective in the sentence "This is the ______ difficult task I've ever faced."?</questionString>
+        <option>more</option>
+        <option>many</option>
+        <option answer="true">most</option>
+        <option>much</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>English</topic>
+        <questionString>Choose the correct relative adverb to complete the sentence: "The house ______ I grew up has been demolished."</questionString>
+        <option>what</option>
+        <option>when</option>
+        <option>why</option>
+        <option answer="true">where</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>English</topic>
+        <questionString>Which of the following is a correct example of a split infinitive? </questionString>
+        <option>To boldly go where no one has gone before.</option>
+        <option>To quickly run is his specialty.</option>
+        <option>To sing beautifully is her dream.</option>
+        <option answer="true">To slowly walk in the park.</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>English</topic>
+        <questionString>What is the correct form of the verb in the sentence "She demanded that he ______ the truth."?</questionString>
+        <option>telling</option>
+        <option>tells</option>
+        <option>told</option>
+        <option answer="true">tell</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>English</topic>
+        <questionString>Identify the antecedent of the pronoun in the sentence: "The students submitted their projects. They had worked hard on them."</questionString>
+        <option>The students</option>
+        <option>their projects</option>
+        <option>They</option>
+        <option>them</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>English</topic>
+        <questionString>Which of the following sentences uses the correct form of the modal perfect? "You ______ have studied harder for the exam."</questionString>
+        <option>might</option>
+        <option>ought to</option>
+        <option>must</option>
+        <option answer="true">should</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>English</topic>
+        <questionString>What is the correct form of the preposition in the sentence "He is jealous ______ his brother's success."?</questionString>
+        <option>at</option>
+        <option>in</option>
+        <option>on</option>
+        <option answer="true">of</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>English</topic>
+        <questionString>Which of the following is a correct example of a reflexive pronoun used as an intensive pronoun? "I ______ painted the whole house."</questionString>
+        <option>me</option>
+        <option>own</option>
+        <option>mine</option>
+        <option answer="true">myself</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>English</topic>
+        <questionString>What is the correct form of the verb in the sentence "The committee ______ on the issue for weeks."?</questionString>
+        <option>is deliberating</option>
+        <option>have been deliberating</option>
+        <option>was deliberating</option>
+        <option answer="true">has been deliberating</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>English</topic>
+        <questionString>Identify the correct use of a correlative conjunction in the sentence: "______ you study hard ______ you will pass the exam."</questionString>
+        <option>Either...or</option>
+        <option>Neither...nor</option>
+        <option answer="true">Both...and</option>
+        <option>Not only...but also</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>English</topic>
+        <questionString>Which of the following is a correct example of a non-finite clause? "______ the book, I felt inspired."</questionString>
+        <option>After read</option>
+        <option>After readings</option>
+        <option>After reads</option>
+        <option answer="true">After reading</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>English</topic>
+        <questionString>What is the correct form of the adjective in the sentence "This painting is ______ than the one in the museum."?</questionString>
+        <option>more valuabler</option>
+        <option>valuabler</option>
+        <option>most valuable</option>
+        <option answer="true">more valuable</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>English</topic>
+        <questionString>Choose the correct conjunction to complete the sentence: "I like hiking, ______ I don't like climbing steep mountains."</questionString>
+        <option>and</option>
+        <option>or</option>
+        <option answer="true">but</option>
+        <option>because</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>English</topic>
+        <questionString>Which of the following is an example of a reciprocal pronoun? </questionString>
+        <option>Each other</option>
+        <option>Other</option>
+        <option>Somebody</option>
+        <option answer="true">One another</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>English</topic>
+        <questionString>What is the correct form of the verb in the sentence "If it had not rained, we ______ gone for a picnic."?</questionString>
+        <option>will have</option>
+        <option>would haven</option>
+        <option>have</option>
+        <option answer="true">would have</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>English</topic>
+        <questionString>Identify the indirect object in the sentence: "The teacher gave the students an interesting lecture."</questionString>
+        <option>The teacher</option>
+        <option>gave</option>
+        <option answer="true">the students</option>
+        <option>an interesting lecture</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>English</topic>
+        <questionString>Which of the following is a correct example of a possessive determiner? "______ car is parked outside."</questionString>
+        <option>It's</option>
+        <option>Its</option>
+        <option>Their</option>
+        <option answer="true">Their</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>English</topic>
+        <questionString>What is the correct form of the verb in the sentence "The company ______ a new product next month."?</questionString>
+        <option>launch</option>
+        <option>launches</option>
+        <option>will be launching</option>
+        <option answer="true">will launch</option>
+    </question>
+    <question difficulty="HARD">
+        <topic>English</topic>
+        <questionString>Which of the following is a correct example of a participle phrase used as an adjective? "The ______ leaves added color to the ground."</questionString>
+        <option>fall</option>
+        <option>falls</option>
+        <option answer="true">fallen</option>
+        <option>falling</option>
+    </question>
+    ```xml
+    <!-- 24 VERY HARD English Questions -->
+    <question difficulty="VERY HARD">
+        <topic>English</topic>
+        <questionString>What is the correct form of the verb in the sentence "Not until he had apologized ______ she forgive him."?</questionString>
+        <option>could</option>
+        <option>might</option>
+        <option answer="true">would</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>English</topic>
+        <questionString>Which of the following sentences correctly uses the sequence of tenses? </questionString>
+        <option>She said that she would attend the meeting.</option>
+        <option>He realized that he had missed the opportunity.</option>
+        <option answer="true">I expected that I would get a promotion.</option>
+        <option>We announce that we were ready.</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>English</topic>
+        <questionString>Identify the elliptical clause in the sentence: "The first movie was exciting, and the second was boring."</questionString>
+        <option>The first movie was exciting</option>
+        <option>and the second was boring</option>
+        <option answer="true">was exciting</option>
+        <option>was boring</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>English</topic>
+        <questionString>What is the correct form of the gerund in the sentence "His constant ______ of the rules made him unpopular."?</questionString>
+        <option>violate</option>
+        <option>violates</option>
+        <option answer="true">violating</option>
+        <option>violated</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>English</topic>
+        <questionString>Which of the following is a correct example of a double negative used for emphasis? </questionString>
+        <option>I can't find my keys nowhere.</option>
+        <option>She doesn't have no friends here.</option>
+        <option answer="true">We won't accept nothing less than perfection.</option>
+        <option>They aren't never going to forgive him.</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>English</topic>
+        <questionString>What is the correct form of the adjective in the sentence "This is the ______ intricate design I've ever worked on."?</questionString>
+        <option>more</option>
+        <option>many</option>
+        <option answer="true">most</option>
+        <option>much</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>English</topic>
+        <questionString>Choose the correct relative pronoun or adverb to complete the sentence: "The place ______ we met was very beautiful."</questionString>
+        <option>what</option>
+        <option>when</option>
+        <option>why</option>
+        <option answer="true">where</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>English</topic>
+        <questionString>Which of the following is a correct example of a fronted adverbial clause? "______ you start, make sure you have everything ready."</questionString>
+        <option>When</option>
+        <option>Before</option>
+        <option answer="true">After</option>
+        <option>Since</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>English</topic>
+        <questionString>What is the correct form of the verb in the sentence "The expert suggested that he ______ a different approach."?</questionString>
+        <option>tries</option>
+        <option>try</option>
+        <option>tried</option>
+        <option answer="true">try</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>English</topic>
+        <questionString>Identify the correct use of a reflexive pronoun in a reflexive construction in the sentence: "She ______ treated after the accident."</questionString>
+        <option>her</option>
+        <option>own</option>
+        <option>hers</option>
+        <option answer="true">herself</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>English</topic>
+        <questionString>Which of the following sentences uses the correct form of the modal passive? "The window ______ be repaired as soon as possible."</questionString>
+        <option>can</option>
+        <option>ought to</option>
+        <option>must</option>
+        <option answer="true">should</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>English</topic>
+        <questionString>What is the correct form of the preposition in the sentence "He is addicted ______ video games."?</questionString>
+        <option>at</option>
+        <option>of</option>
+        <option>on</option>
+        <option answer="true">to</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>English</topic>
+        <questionString>Which of the following is a correct example of a demonstrative pronoun used anaphoric ally? "I bought a new dress. ______ looks great on me."</questionString>
+        <option>Its</option>
+        <option>This</option>
+        <option>That</option>
+        <option answer="true">It</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>English</topic>
+        <questionString>What is the correct form of the verb in the sentence "The choir ______ been practicing for weeks."?</questionString>
+        <option>is</option>
+        <option>have</option>
+        <option answer="true">has</option>
+        <option>had</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>English</topic>
+        <questionString>Identify the correct use of a correlative conjunction in the sentence: "______ did she win the prize, ______ she also received a scholarship."</questionString>
+        <option>Either...or</option>
+        <option>Neither...nor</option>
+        <option answer="true">Not only...but also</option>
+        <option>Both...and</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>English</topic>
+        <questionString>Which of the following is a correct example of a bare infinitive after a perception verb? "I watched her ______ the dance."</questionString>
+        <option>performs</option>
+        <option>performed</option>
+        <option answer="true">perform</option>
+        <option>performing</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>English</topic>
+        <questionString>What is the correct form of the adjective in the sentence "This necklace is ______ than the one in the showcase."?</questionString>
+        <option>more valuables</option>
+        <option>valuabler</option>
+        <option>most valuable</option>
+        <option answer="true">more valuable</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>English</topic>
+        <questionString>Choose the correct conjunction to complete the sentence: "I love traveling, ______ I hate packing."</questionString>
+        <option>and</option>
+        <option>or</option>
+        <option answer="true">but</option>
+        <option>because</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>English</topic>
+        <questionString>Which of the following is an example of a possessive pronoun used independently? "The house is hers. ______ is very beautiful."</questionString>
+        <option>It</option>
+        <option>This</option>
+        <option>That</option>
+        <option answer="true">Hers</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>English</topic>
+        <questionString>What is the correct form of the verb in the sentence "If I were you, I ______ have declined the invitation."?</questionString>
+        <option>will</option>
+        <option>woulds</option>
+        <option>shall</option>
+        <option answer="true">would</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>English</topic>
+        <questionString>Identify the indirect object in the sentence: "The waiter brought the customers their drinks."</questionString>
+        <option>The waiter</option>
+        <option>brought</option>
+        <option answer="true">the customers</option>
+        <option>their drinks</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>English</topic>
+        <questionString>Which of the following is a correct example of a nominal relative clause? "______ you want is a new start."</questionString>
+        <option>That</option>
+        <option>When</option>
+        <option>Which</option>
+        <option answer="true">What</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>English</topic>
+        <questionString>What is the correct form of the verb in the sentence "The new system ______ launched next month."?</questionString>
+        <option>is</option>
+        <option>are</option>
+        <option>will been</option>
+        <option answer="true">will be</option>
+    </question>
+    <question difficulty="VERY HARD">
+        <topic>English</topic>
+        <questionString>Which of the following is a correct example of a concessive clause? "______ he was tired, he kept working."</questionString>
+        <option>But</option>
+        <option>Because</option>
+        <option>Since</option>
+        <option answer="true">Although</option>
+    </question>
+</questions>
+
